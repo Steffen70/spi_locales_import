@@ -1,0 +1,1785 @@
+﻿Area;Type;Name;E
+Andere;Activity;Bestandesmutation;Mutation
+Andere;Activity;Betrifft;concerns
+Andere;Activity;Mutation;Mutation
+Andere;Activity;Simulation;Simulation
+Andere;Activity;Status;Status
+Andere;Allgemein;Status.404.Beschreibung;You may have called up an incorrect or outdated URL. Please check it again.
+Andere;Allgemein;Status.404.Titel;404 - page not found
+Andere;Allgemein;WarteDialog.Text1;Your request is being processed ...
+Andere;Allgemein;WarteDialog.Text2;Please be patient ...
+Andere;Allgemein;WarteDialog.Text3;Time for a coffee break? ...
+Andere;Allgemein;WarteDialog.Text4;It won't be long now ...
+Andere;Allgemein;WarteDialog.Text5;We are almost there ...
+Andere;Allgemein;WarteDialog.Text6;Thank you for your patience ...
+Andere;Allgemein;WarteDialog.Text7;Just a little bit more ...
+Andere;Allgemein;WarteDialog.Text8;We're almost there ...
+Andere;Allgemein;Webseite;Website
+Andere;App;Name;Personalvorsorgestiftung SIX Group
+Andere;Berichte;Textmarke;Generated from online tool
+Andere;Berichte;Wasserzeichen;Simulation
+Andere;Browser;MobileApp.Banner.Text;Download our mobile app.
+Andere;Browser;MobileApp.Store.Droid.Beschreibung;Download the Android Mobile App here:
+Andere;Browser;MobileApp.Store.Droid.Titel;Play Store
+Andere;Browser;MobileApp.Store.iOS.Beschreibung;Download the iOS Mobile App here:
+Andere;Browser;MobileApp.Store.iOS.Titel;App Store
+Andere;Browser;MobileApp.Titel;Download app
+Andere;Browser;NichtUnterstützt;"<p class=""m-2"">You are using a browser that is not supported by our app. <a href=""https://www.browser-update.org/update-browser.html"">Download a current browser here!</a></p>"
+Andere;BusinessCase;Bemerkung;Remark:
+Andere;BusinessCase;Confirm.Mutation_ÄnderungenSpeichern;Would you like to save your changes?
+Andere;BusinessCase;Confirm.Mutation_löschen;Would you like to permanently delete the mutation?
+Andere;BusinessCase;Confirm.Mutation_SeiteVerlassen;You have not submitted the mutation. Would you like to pause the entry?
+Andere;BusinessCase;Drucken;print
+Andere;BusinessCase;Herunterladen;download
+Andere;BusinessCase;Löschen;delete
+Andere;BusinessCase;Pendente_Mutationen;pending Mutation
+Andere;BusinessCase;Pendente_Mutationen_für;pending Mutation for
+Andere;BusinessCase;StatusMessage.Booked;The mutation was successfully completed on {0}
+Andere;BusinessCase;StatusMessage.Created;The mutation has not yet been transmitted.
+Andere;BusinessCase;StatusMessage.Deleted;The mutation was deleted by the user on {0}.
+Andere;BusinessCase;StatusMessage.Processed;The mutation was successfully processed on {0}.
+Andere;BusinessCase;StatusMessage.Rejected;The mutation was rejected on {0}.
+Andere;BusinessCase;StatusMessage.Transmitted;The mutation was successfully transmitted on {0}.
+Andere;BusinessCase;SystemAbgelehnt;The mutation was rejected by the system because it is currently not available.
+Andere;BusinessCase;Übermitteln;transmit
+Andere;BusinessCase;Weiter;continue
+Andere;BusinessCase;Zurück;back
+Andere;Button;Abbrechen;cancel
+Andere;Button;Ändern;change
+Andere;Button;Authenticator_App_öffnen;Open Authenticator app
+Andere;Button;Bildschirm_übertragen;Transmit screen
+Andere;Button;Datei_auswählen;Select file
+Andere;Button;Datei_hier_ablegen;Save file here...
+Andere;Button;Erstellen;create
+Andere;Button;Export;export
+Andere;Button;Fehlerbericht_senden;Send error report
+Andere;Button;Ja;yes
+Andere;Button;Keine_Datei_ausgewählt;No file selected
+Andere;Button;Löschen;delete
+Andere;Button;Nein;no
+Andere;Button;Ok;OK
+Andere;Button;Schliessen;close
+Andere;Button;Speichern;save
+Andere;Button;Support;Support
+Andere;Button;Weiter;continue
+Andere;Button;Zurück;back
+Andere;ChatGPT;AntwortKeineDokumentationsfrage;Ask a question about the documentation.
+Andere;ChatGPT;Buttonsenden;send
+Andere;ChatGPT;Fehlernachricht;Please ask the question again, as unfortunately I have not yet been able to calculate an answer.
+Andere;ChatGPT;Fragestellen;Ask a question...
+Andere;ChatGPT;Modulname;SwissPension Help
+Andere;ChatGPT;Willkommensnachricht;Welcome to {0}
+Andere;Combobox;Bitte_auswählen;Please select
+Andere;Dashboard;Bestandesmutationen;Mutations
+Andere;Dashboard;Mutationen;Mutations
+Andere;Dashboard;Simulation;Simulation
+Andere;Dashboard;Simulationen;Simulations
+Andere;Dashboard;Simulationen_Mutationen;Simulations / Mutations
+Andere;Dashboard;Titel;Overview
+Andere;Dashboard;Weiter;continue
+Andere;DataGrid;Keine_Datensätze_gefunden;No records found
+Andere;DataGrid;Suchbegriff_eingeben;Enter search term
+Andere;DataSource;dsCodeList.Anrede.1;Herr
+Andere;DataSource;dsCodeList.Anrede.11;Monsieur
+Andere;DataSource;dsCodeList.Anrede.12;Madame
+Andere;DataSource;dsCodeList.Anrede.2;Frau
+Andere;DataSource;dsCodeList.Anrede.21;Signor
+Andere;DataSource;dsCodeList.Anrede.22;Signora
+Andere;DataSource;dsCodeList.Anrede.31;Mr
+Andere;DataSource;dsCodeList.Anrede.32;Ms
+Andere;DataSource;dsCodeList.Anrede.Frau;Ms
+Andere;DataSource;dsCodeList.Anrede.Herr;Mister
+Andere;DataSource;dsCodeList.Anst.Aktive.IVGrund.1;Illness
+Andere;DataSource;dsCodeList.Anst.Aktive.IVGrund.2;Accident
+Andere;DataSource;dsCodeList.Geschlecht.F;female
+Andere;DataSource;dsCodeList.Geschlecht.M;male
+Andere;DataSource;dsCodeList.GFA.AustrittGrund.1;Leaving with termination benefits
+Andere;DataSource;dsCodeList.GFA.AustrittGrund.2;Retirement
+Andere;DataSource;dsCodeList.GFA.AustrittGrund.3;Disability
+Andere;DataSource;dsCodeList.GFA.AustrittGrund.4;Death
+Andere;DataSource;dsCodeList.GFA.LohnBG.Grund.0;Salary mutation
+Andere;DataSource;dsCodeList.GFA.LohnBG.Grund.1;Partial leaving with termination benefits
+Andere;DataSource;dsCodeList.GFA.LohnBG.Grund.2;Partial retirement
+Andere;DataSource;dsCodeList.GFA.LohnBG.Grund.3;Partial disability
+Andere;DataSource;dsCodeList.GFA.LohnBG.Grund.4;Incapacity to work
+Andere;DataSource;dsCodeList.GFA.PKPlan.Wahlplan.0;Standard
+Andere;DataSource;dsCodeList.GFA.PKPlan.Wahlplan.1;Budget
+Andere;DataSource;dsCodeList.GFA.PKPlan.Wahlplan.2;Maxi
+Andere;DataSource;dsCodeList.GFA.UU.0;0 - no unpaid leave
+Andere;DataSource;dsCodeList.GFA.UU.1;1 - UL saving at the expense of employee
+Andere;DataSource;dsCodeList.GFA.UU.2;2 - UL risk at the expense of employee
+Andere;DataSource;dsCodeList.GFA.UU.3;3 - No contributions
+Andere;DataSource;dsCodeList.ISO.Land.AD;Andorra
+Andere;DataSource;dsCodeList.ISO.Land.AE;United Arab Emirates
+Andere;DataSource;dsCodeList.ISO.Land.AF;Afghanistan
+Andere;DataSource;dsCodeList.ISO.Land.AG;Antigua and Barbuda
+Andere;DataSource;dsCodeList.ISO.Land.AI;Anguilla
+Andere;DataSource;dsCodeList.ISO.Land.AL;Albanien
+Andere;DataSource;dsCodeList.ISO.Land.AM;Armenien
+Andere;DataSource;dsCodeList.ISO.Land.AO;Angola
+Andere;DataSource;dsCodeList.ISO.Land.AQ;Antarctica
+Andere;DataSource;dsCodeList.ISO.Land.AR;Argentina
+Andere;DataSource;dsCodeList.ISO.Land.AS;American Samoa
+Andere;DataSource;dsCodeList.ISO.Land.AT;Austria
+Andere;DataSource;dsCodeList.ISO.Land.AU;Australia
+Andere;DataSource;dsCodeList.ISO.Land.AW;Aruba
+Andere;DataSource;dsCodeList.ISO.Land.AX;Aland Islands
+Andere;DataSource;dsCodeList.ISO.Land.AZ;Azerbaijan
+Andere;DataSource;dsCodeList.ISO.Land.BA;Bosnia and Herzegovina
+Andere;DataSource;dsCodeList.ISO.Land.BB;Barbados
+Andere;DataSource;dsCodeList.ISO.Land.BD;Bangladesch
+Andere;DataSource;dsCodeList.ISO.Land.BE;Belgium
+Andere;DataSource;dsCodeList.ISO.Land.BF;Burkina Faso
+Andere;DataSource;dsCodeList.ISO.Land.BG;Bulgarian
+Andere;DataSource;dsCodeList.ISO.Land.BH;Bahrain
+Andere;DataSource;dsCodeList.ISO.Land.BI;Burundi
+Andere;DataSource;dsCodeList.ISO.Land.BJ;Benin
+Andere;DataSource;dsCodeList.ISO.Land.BL;Saint-Barthélemy
+Andere;DataSource;dsCodeList.ISO.Land.BM;Bermuda
+Andere;DataSource;dsCodeList.ISO.Land.BN;Brunei Darussalam
+Andere;DataSource;dsCodeList.ISO.Land.BO;Bolivia
+Andere;DataSource;dsCodeList.ISO.Land.BQ;Bonaire, Saint Eustatius and Saba
+Andere;DataSource;dsCodeList.ISO.Land.BR;Brazil
+Andere;DataSource;dsCodeList.ISO.Land.BS;Bahamas
+Andere;DataSource;dsCodeList.ISO.Land.BT;Bhutan
+Andere;DataSource;dsCodeList.ISO.Land.BV;Bouvet Island
+Andere;DataSource;dsCodeList.ISO.Land.BW;Botswana
+Andere;DataSource;dsCodeList.ISO.Land.BY;Belarus
+Andere;DataSource;dsCodeList.ISO.Land.BZ;Belize
+Andere;DataSource;dsCodeList.ISO.Land.CA;Canada
+Andere;DataSource;dsCodeList.ISO.Land.CC;Coconut islands
+Andere;DataSource;dsCodeList.ISO.Land.CD;Congo (Kinshasa)
+Andere;DataSource;dsCodeList.ISO.Land.CF;Central African Republic
+Andere;DataSource;dsCodeList.ISO.Land.CG;Congo (Brazzaville)
+Andere;DataSource;dsCodeList.ISO.Land.CH;Switzerland
+Andere;DataSource;dsCodeList.ISO.Land.CI;Ivory Coast
+Andere;DataSource;dsCodeList.ISO.Land.CK;Cook Islands
+Andere;DataSource;dsCodeList.ISO.Land.CL;Chile
+Andere;DataSource;dsCodeList.ISO.Land.CM;Cameroon
+Andere;DataSource;dsCodeList.ISO.Land.CN;China
+Andere;DataSource;dsCodeList.ISO.Land.CO;Colombia
+Andere;DataSource;dsCodeList.ISO.Land.CR;Costa Rica
+Andere;DataSource;dsCodeList.ISO.Land.CU;Cuba
+Andere;DataSource;dsCodeList.ISO.Land.CV;Cape Verde
+Andere;DataSource;dsCodeList.ISO.Land.CW;Curaçao
+Andere;DataSource;dsCodeList.ISO.Land.CX;Christmas Island
+Andere;DataSource;dsCodeList.ISO.Land.CY;Cyprus
+Andere;DataSource;dsCodeList.ISO.Land.CZ;Czech Republic
+Andere;DataSource;dsCodeList.ISO.Land.DE;Germany
+Andere;DataSource;dsCodeList.ISO.Land.DJ;Djibouti
+Andere;DataSource;dsCodeList.ISO.Land.DK;Denmark
+Andere;DataSource;dsCodeList.ISO.Land.DM;Dominica
+Andere;DataSource;dsCodeList.ISO.Land.DO;Dominican Republic
+Andere;DataSource;dsCodeList.ISO.Land.DZ;Algeria
+Andere;DataSource;dsCodeList.ISO.Land.EC;Ecuador
+Andere;DataSource;dsCodeList.ISO.Land.EE;Estonia
+Andere;DataSource;dsCodeList.ISO.Land.EG;Egypt
+Andere;DataSource;dsCodeList.ISO.Land.EH;Western Sahara
+Andere;DataSource;dsCodeList.ISO.Land.ER;Eritrea
+Andere;DataSource;dsCodeList.ISO.Land.ES;Spain
+Andere;DataSource;dsCodeList.ISO.Land.ET;Ethiopia
+Andere;DataSource;dsCodeList.ISO.Land.FI;Finland
+Andere;DataSource;dsCodeList.ISO.Land.FJ;Fiji
+Andere;DataSource;dsCodeList.ISO.Land.FK;Falkland Islands
+Andere;DataSource;dsCodeList.ISO.Land.FM;Micronesien
+Andere;DataSource;dsCodeList.ISO.Land.FO;Faroe Islands
+Andere;DataSource;dsCodeList.ISO.Land.FR;France
+Andere;DataSource;dsCodeList.ISO.Land.GA;Gabon
+Andere;DataSource;dsCodeList.ISO.Land.GB;United Kingdom
+Andere;DataSource;dsCodeList.ISO.Land.GD;Grenada
+Andere;DataSource;dsCodeList.ISO.Land.GE;Georgia
+Andere;DataSource;dsCodeList.ISO.Land.GF;French Guiana
+Andere;DataSource;dsCodeList.ISO.Land.GG;Guernsey
+Andere;DataSource;dsCodeList.ISO.Land.GH;Ghana
+Andere;DataSource;dsCodeList.ISO.Land.GI;Gibraltar
+Andere;DataSource;dsCodeList.ISO.Land.GL;Greenland
+Andere;DataSource;dsCodeList.ISO.Land.GM;Gambia
+Andere;DataSource;dsCodeList.ISO.Land.GN;Guinea
+Andere;DataSource;dsCodeList.ISO.Land.GP;Guadeloupe
+Andere;DataSource;dsCodeList.ISO.Land.GQ;Equatorial Guinea
+Andere;DataSource;dsCodeList.ISO.Land.GR;Greece
+Andere;DataSource;dsCodeList.ISO.Land.GS;South Georgia and the South Sandwich Islands
+Andere;DataSource;dsCodeList.ISO.Land.GT;Guatemala
+Andere;DataSource;dsCodeList.ISO.Land.GU;Guam
+Andere;DataSource;dsCodeList.ISO.Land.GW;Guinea-Bissau
+Andere;DataSource;dsCodeList.ISO.Land.GY;Guyana
+Andere;DataSource;dsCodeList.ISO.Land.HK;Hong Kong
+Andere;DataSource;dsCodeList.ISO.Land.HM;Heard and McDonald Islands
+Andere;DataSource;dsCodeList.ISO.Land.HN;Honduras
+Andere;DataSource;dsCodeList.ISO.Land.HR;Kroatien
+Andere;DataSource;dsCodeList.ISO.Land.HT;Haiti
+Andere;DataSource;dsCodeList.ISO.Land.HU;Hungary
+Andere;DataSource;dsCodeList.ISO.Land.ID;Indonesien
+Andere;DataSource;dsCodeList.ISO.Land.IE;Ireland
+Andere;DataSource;dsCodeList.ISO.Land.IL;Israel
+Andere;DataSource;dsCodeList.ISO.Land.IM;Isle of Man
+Andere;DataSource;dsCodeList.ISO.Land.IN;Indien
+Andere;DataSource;dsCodeList.ISO.Land.IO;British territories in the Indian Ocean
+Andere;DataSource;dsCodeList.ISO.Land.IQ;Iraq
+Andere;DataSource;dsCodeList.ISO.Land.IR;Iran
+Andere;DataSource;dsCodeList.ISO.Land.IS;Island
+Andere;DataSource;dsCodeList.ISO.Land.IT;Italian
+Andere;DataSource;dsCodeList.ISO.Land.JE;Jersey
+Andere;DataSource;dsCodeList.ISO.Land.JM;Jamaica
+Andere;DataSource;dsCodeList.ISO.Land.JO;Jordanien
+Andere;DataSource;dsCodeList.ISO.Land.JP;Japan
+Andere;DataSource;dsCodeList.ISO.Land.KE;Kenya
+Andere;DataSource;dsCodeList.ISO.Land.KG;Kyrgyzstan
+Andere;DataSource;dsCodeList.ISO.Land.KH;Cambodia
+Andere;DataSource;dsCodeList.ISO.Land.KI;Kiribati
+Andere;DataSource;dsCodeList.ISO.Land.KM;Chamber
+Andere;DataSource;dsCodeList.ISO.Land.KN;St. Kitts and Nevis
+Andere;DataSource;dsCodeList.ISO.Land.KP;Korea (North)
+Andere;DataSource;dsCodeList.ISO.Land.KR;Korea (South)
+Andere;DataSource;dsCodeList.ISO.Land.KW;Kuwait
+Andere;DataSource;dsCodeList.ISO.Land.KY;Cayman Islands
+Andere;DataSource;dsCodeList.ISO.Land.KZ;Kazakhstan
+Andere;DataSource;dsCodeList.ISO.Land.LA;Laos
+Andere;DataSource;dsCodeList.ISO.Land.LB;Lebanon
+Andere;DataSource;dsCodeList.ISO.Land.LC;Saint Lucia
+Andere;DataSource;dsCodeList.ISO.Land.LI;Liechtenstein
+Andere;DataSource;dsCodeList.ISO.Land.LK;Sri Lanka
+Andere;DataSource;dsCodeList.ISO.Land.LR;Liberia
+Andere;DataSource;dsCodeList.ISO.Land.LS;Lesotho
+Andere;DataSource;dsCodeList.ISO.Land.LT;Lithuania
+Andere;DataSource;dsCodeList.ISO.Land.LU;Luxemburg
+Andere;DataSource;dsCodeList.ISO.Land.LV;Latvia
+Andere;DataSource;dsCodeList.ISO.Land.LY;Libya
+Andere;DataSource;dsCodeList.ISO.Land.MA;Morocco
+Andere;DataSource;dsCodeList.ISO.Land.MC;Monaco
+Andere;DataSource;dsCodeList.ISO.Land.MD;Moldova
+Andere;DataSource;dsCodeList.ISO.Land.ME;Montenegro
+Andere;DataSource;dsCodeList.ISO.Land.MF;Saint-Martin (France)
+Andere;DataSource;dsCodeList.ISO.Land.MG;Madagascar
+Andere;DataSource;dsCodeList.ISO.Land.MH;Marshall Islands
+Andere;DataSource;dsCodeList.ISO.Land.MK;North Macedonia
+Andere;DataSource;dsCodeList.ISO.Land.ML;Mali
+Andere;DataSource;dsCodeList.ISO.Land.MM;Myanmar
+Andere;DataSource;dsCodeList.ISO.Land.MN;Mongolei
+Andere;DataSource;dsCodeList.ISO.Land.MO;Macao
+Andere;DataSource;dsCodeList.ISO.Land.MP;Northern Mariana Islands
+Andere;DataSource;dsCodeList.ISO.Land.MQ;Martinique
+Andere;DataSource;dsCodeList.ISO.Land.MR;Mauritanien
+Andere;DataSource;dsCodeList.ISO.Land.MS;Montserrat
+Andere;DataSource;dsCodeList.ISO.Land.MT;Malta
+Andere;DataSource;dsCodeList.ISO.Land.MU;Mauritius
+Andere;DataSource;dsCodeList.ISO.Land.MV;Maldives
+Andere;DataSource;dsCodeList.ISO.Land.MW;Malawi
+Andere;DataSource;dsCodeList.ISO.Land.MX;Mexico
+Andere;DataSource;dsCodeList.ISO.Land.MY;Malaysia
+Andere;DataSource;dsCodeList.ISO.Land.MZ;Mozambique
+Andere;DataSource;dsCodeList.ISO.Land.NA;Namibia
+Andere;DataSource;dsCodeList.ISO.Land.NC;New Caledonia
+Andere;DataSource;dsCodeList.ISO.Land.NE;Niger
+Andere;DataSource;dsCodeList.ISO.Land.NF;Norfolkinsel
+Andere;DataSource;dsCodeList.ISO.Land.NG;Nigeria
+Andere;DataSource;dsCodeList.ISO.Land.NI;Nicaragua
+Andere;DataSource;dsCodeList.ISO.Land.NL;Niederlande
+Andere;DataSource;dsCodeList.ISO.Land.NO;Norway
+Andere;DataSource;dsCodeList.ISO.Land.NP;Nepal
+Andere;DataSource;dsCodeList.ISO.Land.NR;Nauru
+Andere;DataSource;dsCodeList.ISO.Land.NU;Niue
+Andere;DataSource;dsCodeList.ISO.Land.NZ;New Zealand
+Andere;DataSource;dsCodeList.ISO.Land.OM;Oman
+Andere;DataSource;dsCodeList.ISO.Land.PA;Panama
+Andere;DataSource;dsCodeList.ISO.Land.PE;Peru
+Andere;DataSource;dsCodeList.ISO.Land.PF;French Polynesia
+Andere;DataSource;dsCodeList.ISO.Land.PG;Papua New Guinea
+Andere;DataSource;dsCodeList.ISO.Land.PH;Philippinen
+Andere;DataSource;dsCodeList.ISO.Land.PK;Pakistan
+Andere;DataSource;dsCodeList.ISO.Land.PL;Poland
+Andere;DataSource;dsCodeList.ISO.Land.PM;St. Pierre and Miquelon
+Andere;DataSource;dsCodeList.ISO.Land.PN;Pitcairninseln
+Andere;DataSource;dsCodeList.ISO.Land.PR;Puerto Rico
+Andere;DataSource;dsCodeList.ISO.Land.PS;Palestine
+Andere;DataSource;dsCodeList.ISO.Land.PT;Portugal
+Andere;DataSource;dsCodeList.ISO.Land.PW;Palau
+Andere;DataSource;dsCodeList.ISO.Land.PY;Paraguay
+Andere;DataSource;dsCodeList.ISO.Land.QA;Katar
+Andere;DataSource;dsCodeList.ISO.Land.RE;Reunion
+Andere;DataSource;dsCodeList.ISO.Land.RO;Romania
+Andere;DataSource;dsCodeList.ISO.Land.RS;Serbia
+Andere;DataSource;dsCodeList.ISO.Land.RU;Russia
+Andere;DataSource;dsCodeList.ISO.Land.RW;Rwanda
+Andere;DataSource;dsCodeList.ISO.Land.SA;Saudi Arabia
+Andere;DataSource;dsCodeList.ISO.Land.SB;Solomon Islands
+Andere;DataSource;dsCodeList.ISO.Land.SC;Seychelles
+Andere;DataSource;dsCodeList.ISO.Land.SD;Sudan
+Andere;DataSource;dsCodeList.ISO.Land.SE;Sweden
+Andere;DataSource;dsCodeList.ISO.Land.SG;Singapore
+Andere;DataSource;dsCodeList.ISO.Land.SH;St. Helena
+Andere;DataSource;dsCodeList.ISO.Land.SI;Slovenia
+Andere;DataSource;dsCodeList.ISO.Land.SJ;Svalbard and Jan Mayen
+Andere;DataSource;dsCodeList.ISO.Land.SK;Slovakia
+Andere;DataSource;dsCodeList.ISO.Land.SL;Sierra Leone
+Andere;DataSource;dsCodeList.ISO.Land.SM;San Marino
+Andere;DataSource;dsCodeList.ISO.Land.SN;Senegal
+Andere;DataSource;dsCodeList.ISO.Land.SO;Somalia
+Andere;DataSource;dsCodeList.ISO.Land.SR;Suriname
+Andere;DataSource;dsCodeList.ISO.Land.SS;South Sudan
+Andere;DataSource;dsCodeList.ISO.Land.ST;São Tomé and Príncipe
+Andere;DataSource;dsCodeList.ISO.Land.SV;El Salvador
+Andere;DataSource;dsCodeList.ISO.Land.SX;Sint Maarten (Niederlande)
+Andere;DataSource;dsCodeList.ISO.Land.SY;Syrian
+Andere;DataSource;dsCodeList.ISO.Land.SZ;Eswatini
+Andere;DataSource;dsCodeList.ISO.Land.TC;Turks and Caicos Islands
+Andere;DataSource;dsCodeList.ISO.Land.TD;Chad
+Andere;DataSource;dsCodeList.ISO.Land.TF;French Southern and Antarctic Territories
+Andere;DataSource;dsCodeList.ISO.Land.TG;Togo
+Andere;DataSource;dsCodeList.ISO.Land.TH;Thailand
+Andere;DataSource;dsCodeList.ISO.Land.TJ;Tajikistan
+Andere;DataSource;dsCodeList.ISO.Land.TK;Tokelau
+Andere;DataSource;dsCodeList.ISO.Land.TL;East Timor
+Andere;DataSource;dsCodeList.ISO.Land.TM;Turkmenistan
+Andere;DataSource;dsCodeList.ISO.Land.TN;Tunisia
+Andere;DataSource;dsCodeList.ISO.Land.TO;Tonga
+Andere;DataSource;dsCodeList.ISO.Land.TR;Turkey
+Andere;DataSource;dsCodeList.ISO.Land.TT;Trinidad and Tobago
+Andere;DataSource;dsCodeList.ISO.Land.TV;Tuvalu
+Andere;DataSource;dsCodeList.ISO.Land.TW;Taiwan (Chinese Taipei)
+Andere;DataSource;dsCodeList.ISO.Land.TZ;Tanzania
+Andere;DataSource;dsCodeList.ISO.Land.UA;Ukraine
+Andere;DataSource;dsCodeList.ISO.Land.UG;Uganda
+Andere;DataSource;dsCodeList.ISO.Land.UM;Smaller American overseas islands
+Andere;DataSource;dsCodeList.ISO.Land.US;United States
+Andere;DataSource;dsCodeList.ISO.Land.UY;Uruguay
+Andere;DataSource;dsCodeList.ISO.Land.UZ;Uzbekistan
+Andere;DataSource;dsCodeList.ISO.Land.VA;Vatican City
+Andere;DataSource;dsCodeList.ISO.Land.VC;St. Vincent and the Grenadines
+Andere;DataSource;dsCodeList.ISO.Land.VE;Venezuela
+Andere;DataSource;dsCodeList.ISO.Land.VG;Virgin Islands (UK)
+Andere;DataSource;dsCodeList.ISO.Land.VI;Virgin Islands (USA)
+Andere;DataSource;dsCodeList.ISO.Land.VN;Vietnam
+Andere;DataSource;dsCodeList.ISO.Land.VU;Vanuatu
+Andere;DataSource;dsCodeList.ISO.Land.WF;Wallis and Futuna
+Andere;DataSource;dsCodeList.ISO.Land.WS;Samoa
+Andere;DataSource;dsCodeList.ISO.Land.XK;Kosovo
+Andere;DataSource;dsCodeList.ISO.Land.YE;Yemen
+Andere;DataSource;dsCodeList.ISO.Land.YT;Mayotte
+Andere;DataSource;dsCodeList.ISO.Land.ZA;South Africa
+Andere;DataSource;dsCodeList.ISO.Land.ZM;Sambia
+Andere;DataSource;dsCodeList.ISO.Land.ZW;Zimbabwe
+Andere;DataSource;dsCodeList.JaNein.0;Norway
+Andere;DataSource;dsCodeList.JaNein.1;yes
+Andere;DataSource;dsCodeList.SPiv2.Anrede.Frau;Ms
+Andere;DataSource;dsCodeList.SPiv2.Anrede.Herr;Mister
+Andere;DataSource;dsCodeList.SPiv2.Anrede.Unbekannt;unknown
+Andere;DataSource;dsCodeList.SPiv2.Berechtigungen.Keine;None
+Andere;DataSource;dsCodeList.SPiv2.Berechtigungen.Lesen;read
+Andere;DataSource;dsCodeList.SPiv2.Berechtigungen.Schreiben;full access
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.0;open
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.1;Transmitted
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.2;Deleted
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.3;Processed
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.4;Rejected
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.5;Booked
+Andere;DataSource;dsCodeList.SPiv2.BusinessCase.Status.9;Protocol
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Import.Mapping.AHVID;AHV number
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Import.Mapping.AnstID;Salary ID
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.0;open
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.1;Transmitted
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.2;Deleted
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.3;Processed
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.4;Rejected
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.5;In process
+Andere;DataSource;dsCodeList.SPiv2.BusinessCaseBundle.Status.6;Rejected
+Andere;DataSource;dsCodeList.SPiv2.Export.FileType.CSVSTRM;CSV file (.csv)
+Andere;DataSource;dsCodeList.SPiv2.Export.FileType.EXCELSTRM;Excel file (.xlsx)
+Andere;DataSource;dsCodeList.SPiv2.Export.FileType.PDFSTRM;PDF file (.pdf)
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Accepted;Accepted
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Closed;Completed
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Created;open
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Deleted;Deleted
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Rejected;Rejected
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Requested;Requested
+Andere;DataSource;dsCodeList.SPiv2.Offer.Status.Responded;Answered
+Andere;DataSource;dsCodeList.SPiv2.Versicherte.Chart.Topf.BVG;BVG/LOB (mandatory)
+Andere;DataSource;dsCodeList.SPiv2.Versicherte.Chart.Topf.Reglement;Non-mandatory
+Andere;DataSource;dsCodeList.SPiv2.Zweifaktor.Typ.1;Authenticator app (e.g. Microsoft, Google and others)
+Andere;DataSource;dsCodeList.SPiv2.Zweifaktor.Typ.2;Text message to mobile no.
+Andere;DataSource;dsCodeList.SPiv2.Zweifaktor.Typ.SMS;Text message to mobile no.
+Andere;DataSource;dsCodeList.SPiv2.Zweifaktor.Typ.TOTP;Authenticator app (e.g. Microsoft, Google and others)
+Andere;DataSource;dsCodeList.Sprache.D;German
+Andere;DataSource;dsCodeList.Sprache.E;English
+Andere;DataSource;dsCodeList.Sprache.F;French
+Andere;DataSource;dsCodeList.Sprache.I;Italian
+Andere;DataSource;dsCodeList.Sprache.S;Spanish
+Andere;DataSource;dsCodeList.TaxWare.Konfession.0;none
+Andere;DataSource;dsCodeList.TaxWare.Konfession.1;Roman Catholic
+Andere;DataSource;dsCodeList.TaxWare.Konfession.2;Protestant
+Andere;DataSource;dsCodeList.TaxWare.Konfession.3;Old Catholic
+Andere;DataSource;dsCodeList.TaxWare.Konfession.4;Jewish
+Andere;DataSource;dsCodeList.TaxWare.Konfession.5;other
+Andere;DataSource;dsCodeList.TaxWare.Konfession.6;unknown
+Andere;DataSource;dsCodeList.TaxWare.Partnerschaft.0;single
+Andere;DataSource;dsCodeList.TaxWare.Partnerschaft.1;married
+Andere;DataSource;dsCodeList.TaxWare.Partnerschaft.2;registered
+Andere;DataSource;dsCodeList.VersandArt.0;Send documents by post
+Andere;DataSource;dsCodeList.VersandArt.2;Deliver documents online
+Andere;DataSource;dsCodeList.Zivilstand.0;unknown
+Andere;DataSource;dsCodeList.Zivilstand.1;single
+Andere;DataSource;dsCodeList.Zivilstand.12;registered partnership
+Andere;DataSource;dsCodeList.Zivilstand.13;dissolved partnership
+Andere;DataSource;dsCodeList.Zivilstand.14;widowed
+Andere;DataSource;dsCodeList.Zivilstand.2;married
+Andere;DataSource;dsCodeList.Zivilstand.3;divorced
+Andere;DataSource;dsCodeList.Zivilstand.4;widowed
+Andere;DataSource;dsCodeList.Zivilstand.5;separated
+Andere;DataSource;dsCodeList.ZusatzKonto.AG.AGB;Employer's contribution reserves
+Andere;DataSource;dsCodeList.ZusatzKonto.AG.AGO;Guarantee fund
+Andere;Datenschutz;Cookie.Hinweis;The website uses cookies and similar technologies. Only cookies that are absolutely necessary, e.g. for providing the website, maintaining security, storing data in log files, are used.
+Andere;Einstellungen;Benachrichtigung.Aktuell!BusinessCase;when processing a mutation report
+Andere;Einstellungen;Benachrichtigung.Aktuell!Email;e-mail
+Andere;Einstellungen;Benachrichtigung.Aktuell!MessageExchange;for new messages
+Andere;Einstellungen;Benachrichtigung.Aktuell!Push;push
+Andere;Einstellungen;Benachrichtigung.Aktuell!Sms;text message
+Andere;Einstellungen;Benachrichtigung.Aktuell!StorageFile;for new documents
+Andere;Einstellungen;Benachrichtigung.Ändern_1!BusinessCase;when processing a mutation report
+Andere;Einstellungen;Benachrichtigung.Ändern_1!BusinessCaseEmail;e-mail
+Andere;Einstellungen;Benachrichtigung.Ändern_1!BusinessCasePush;push
+Andere;Einstellungen;Benachrichtigung.Ändern_1!BusinessCaseSms;text message
+Andere;Einstellungen;Benachrichtigung.Ändern_1!MessageExchange;for new messages
+Andere;Einstellungen;Benachrichtigung.Ändern_1!MessageExchangeEmail;e-mail
+Andere;Einstellungen;Benachrichtigung.Ändern_1!MessageExchangePush;push
+Andere;Einstellungen;Benachrichtigung.Ändern_1!MessageExchangeSms;text message
+Andere;Einstellungen;Benachrichtigung.Ändern_1!Sms;text message
+Andere;Einstellungen;Benachrichtigung.Ändern_1!StorageFile;for new documents
+Andere;Einstellungen;Benachrichtigung.Ändern_1!StorageFileEmail;e-mail
+Andere;Einstellungen;Benachrichtigung.Ändern_1!StorageFilePush;push
+Andere;Einstellungen;Benachrichtigung.Ändern_1!StorageFileSms;text message
+Andere;Einstellungen;Benachrichtigung.Ändern_1.Validierung.1;You have not entered a mobile phone number
+Andere;Einstellungen;Benachrichtigung.Schritt_1.Beschreibung;Please specify the events for which you would like to receive a notification.
+Andere;Einstellungen;Benachrichtigung.Schritt_1.Titel;Notification
+Andere;Einstellungen;Benachrichtigung.Titel;Notification
+Andere;Einstellungen;Berechtigungsänderung.AG_Email.Betreff;{0} | User access changed
+Andere;Einstellungen;Berechtigungsänderung.AG_Email.Nachricht;"The accesses of the following users have changed:
+
+{0}"
+Andere;Einstellungen;Berechtigungsänderung.AG_Email.Nachricht.Benutzer;User: {0}
+Andere;Einstellungen;Berechtigungsänderung.Email.Betreff;{0} | Authorizations changed
+Andere;Einstellungen;Berechtigungsänderung.Email.Nachricht;"Your authorizations have been changed as follows:
+
+{0}"
+Andere;Einstellungen;Berechtigungsänderung.Email.Nachricht.Bisher;until now
+Andere;Einstellungen;Berechtigungsänderung.Email.Nachricht.Neu;new
+Andere;Einstellungen;Email.Ändern_1!Email;new e-mail address
+Andere;Einstellungen;Email.Ändern_2!SecurityToken;Confirmation key
+Andere;Einstellungen;Email.Ändern_3!SecurityToken;Confirmation key
+Andere;Einstellungen;Email.Beschreibung;You have entered the following e-mail address:
+Andere;Einstellungen;Email.Schritt_1.Beschreibung;Please enter the new e-mail address.
+Andere;Einstellungen;Email.Schritt_1.Fehler_EmailExistiertBereits;This e-mail address is already in use. Please enter another one.
+Andere;Einstellungen;Email.Schritt_1.Fehler_EmailUngültig;The email address you entered is not in a valid format.
+Andere;Einstellungen;Email.Schritt_1.Titel;new e-mail address
+Andere;Einstellungen;Email.Schritt_2.Beschreibung;Please enter the confirmation key that was sent to '{0}'
+Andere;Einstellungen;Email.Schritt_2.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Andere;Einstellungen;Email.Schritt_2.Titel;Verification
+Andere;Einstellungen;Email.Schritt_3.Beschreibung;For security reasons, another confirmation key has been sent to the e-mail address '{0}' currently stored. Please enter the confirmation key to change your e-mail address.
+Andere;Einstellungen;Email.Schritt_3.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Andere;Einstellungen;Email.Schritt_3.Fehler_UnerwarteterFehler;An unexpected error has occurred.
+Andere;Einstellungen;Email.Schritt_3.Titel;Confirmation
+Andere;Einstellungen;Email.Titel;e-mail address
+Andere;Einstellungen;ExternerZugriff.Benutzer!Anrede;Salutation
+Andere;Einstellungen;ExternerZugriff.Benutzer!Email;e-mail
+Andere;Einstellungen;ExternerZugriff.Benutzer!FirmenName;Company name
+Andere;Einstellungen;ExternerZugriff.Benutzer!FirmenOrt;Place
+Andere;Einstellungen;ExternerZugriff.Benutzer!FirmenPLZ;Postcode
+Andere;Einstellungen;ExternerZugriff.Benutzer!FirmenStrasse;Street
+Andere;Einstellungen;ExternerZugriff.Benutzer!Name;Name
+Andere;Einstellungen;ExternerZugriff.Benutzer!Vorname;First Name
+Andere;Einstellungen;ExternerZugriff.Benutzer_löschen;Do you want to delete the user permanently?
+Andere;Einstellungen;ExternerZugriff.BerechtigteBenutzer!Anrede;Salutation
+Andere;Einstellungen;ExternerZugriff.BerechtigteBenutzer!Email;e-mail
+Andere;Einstellungen;ExternerZugriff.BerechtigteBenutzer!Name;Name
+Andere;Einstellungen;ExternerZugriff.BerechtigteBenutzer!Vorname;First Name
+Andere;Einstellungen;ExternerZugriff.Berechtigungen_neu.Erfolgreich;The user has received the authorisations and is notified by e-mail.
+Andere;Einstellungen;ExternerZugriff.Externen_Zugriff_bearbeiten;Edit external access
+Andere;Einstellungen;ExternerZugriff.Externen_Zugriff_erstellen;Create external access
+Andere;Einstellungen;ExternerZugriff.Neu!Email;e-mail address
+Andere;Einstellungen;ExternerZugriff.Neu.Validierung.1;Please enter a valid e-mail address.
+Andere;Einstellungen;ExternerZugriff.Neuen_externen_Zugriff_erstellen;Create new external access
+Andere;Einstellungen;ExternerZugriff.Registrierungslink_bearbeiten;Edit registration link
+Andere;Einstellungen;ExternerZugriff.RegLink_Einzel!ActivationCode;Activation code
+Andere;Einstellungen;ExternerZugriff.RegLink_Einzel!CreatedDate;Created on
+Andere;Einstellungen;ExternerZugriff.RegLink_Einzel!LblInfo;The user has received the registration link by e-mail. You must send the activation code to the user yourself so that they can register.
+Andere;Einstellungen;ExternerZugriff.RegLink_Einzel!SentTo;Recipient
+Andere;Einstellungen;ExternerZugriff.RegLink_Einzel!ValidTo;Link valid until
+Andere;Einstellungen;ExternerZugriff.RegLink_löschen;Do you want to permanently delete the registration link? 
+Andere;Einstellungen;ExternerZugriff.RegLink_neu.Email.Betreff;{0} | You can register
+Andere;Einstellungen;ExternerZugriff.RegLink_neu.Email.Nachricht;"{0} has activated you for registration.
+
+As soon as you have received the activation code from {0}, you can register via the following link (the link is only valid for 7 days):
+{1}"
+Andere;Einstellungen;ExternerZugriff.RegLink_neu.Erfolgreich;The user receives the registration link by e-mail. You must send the activation code to the user yourself so that they can register.
+Andere;Einstellungen;ExternerZugriff.RegLinks!ActivationCode;Activation code
+Andere;Einstellungen;ExternerZugriff.RegLinks!CreatedDate;Created on
+Andere;Einstellungen;ExternerZugriff.RegLinks!SentTo;Receiver
+Andere;Einstellungen;ExternerZugriff.RegLinks!ValidTo;Link valid until
+Andere;Einstellungen;ExternerZugriff.Titel;External access
+Andere;Einstellungen;Kennwort.Ändern_1!CurrentPassword;Current password
+Andere;Einstellungen;Kennwort.Ändern_1!NewPassword;New password
+Andere;Einstellungen;Kennwort.Ändern_1!NewPasswordRetyped;Repeat new password
+Andere;Einstellungen;Kennwort.Ändern_1.Validierung.1;Please enter a different password.
+Andere;Einstellungen;Kennwort.Ändern_2!SecurityToken;Confirmation key
+Andere;Einstellungen;Kennwort.Beschreibung;Would you like to change your password?
+Andere;Einstellungen;Kennwort.Schritt_1.Beschreibung;Please enter the current password and the new password. The new password must be at least 8 characters long and contain characters from the following groups: Numbers, lower case letters, upper case letters, special characters.
+Andere;Einstellungen;Kennwort.Schritt_1.Fehler_KennwortRichtlinienNichtEingehalten;The minimum guidelines for the new password are not met. Please check your entry.
+Andere;Einstellungen;Kennwort.Schritt_1.Fehler_KennwortWiederholungFalsch;The password you have repeatedly entered is not correct. Please check your entry.
+Andere;Einstellungen;Kennwort.Schritt_1.Fehler_UngültigeEingabe;The entry is invalid. Please check your entry.
+Andere;Einstellungen;Kennwort.Schritt_1.Titel;Enter password
+Andere;Einstellungen;Kennwort.Schritt_2.Fehler_UnerwarteterFehler;An unexpected error has occurred.
+Andere;Einstellungen;Kennwort.Schritt_2.Fehler_UngültigeEingabe;The entry is invalid. Please check your entry.
+Andere;Einstellungen;Kennwort.Schritt_2.Titel;Confirmation
+Andere;Einstellungen;Kennwort.Schritt_2_SMS.Beschreibung;Please confirm the change by entering the key you received via SMS.
+Andere;Einstellungen;Kennwort.Schritt_2_TOTP.Beschreibung;Please confirm the change by entering the two-factor app key.
+Andere;Einstellungen;Kennwort.Titel;Password
+Andere;Einstellungen;Makler.Titel;Brokerage authorization
+Andere;Einstellungen;MobilNr.Ändern_1!MobilNr;New mobile no.
+Andere;Einstellungen;MobilNr.Ändern_2!SecurityToken;Confirmation key
+Andere;Einstellungen;MobilNr.Ändern_3!SecurityToken;Confirmation key
+Andere;Einstellungen;MobilNr.Beschreibung;You have entered the following mobile number:
+Andere;Einstellungen;MobilNr.Schritt_1.Beschreibung;Please enter the new mobile number.
+Andere;Einstellungen;MobilNr.Schritt_1.Fehler_MobilNrUngültig;The mobile number entered is not in a valid format.
+Andere;Einstellungen;MobilNr.Schritt_1.Titel;New mobile no.
+Andere;Einstellungen;MobilNr.Schritt_2.Beschreibung;Please enter the confirmation key that was sent to the mobile number '{0}'.
+Andere;Einstellungen;MobilNr.Schritt_2.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Andere;Einstellungen;MobilNr.Schritt_2.Titel;Verification
+Andere;Einstellungen;MobilNr.Schritt_3.Beschreibung;For security reasons, another confirmation key has been sent to the mobile number '{0}' currently stored. Please enter the confirmation key to change your mobile number.
+Andere;Einstellungen;MobilNr.Schritt_3.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Andere;Einstellungen;MobilNr.Schritt_3.Fehler_UnerwarteterFehler;An unexpected error has occurred.
+Andere;Einstellungen;MobilNr.Schritt_3.Titel;Confirmation
+Andere;Einstellungen;MobilNr.Titel;mobile no.
+Andere;Einstellungen;Rollentausch.Ändern_1!CoworkerUserId;Employees
+Andere;Einstellungen;Rollentausch.Ändern_2!SecurityToken;Confirmation key
+Andere;Einstellungen;Rollentausch.Beschreibung;Would you like to swap your role with an employee?
+Andere;Einstellungen;Rollentausch.ButtonText;Swap roles
+Andere;Einstellungen;Rollentausch.Email.Betreff;{0} | Role changed
+Andere;Einstellungen;Rollentausch.Email.Nachricht;"{0} has performed a role reversal.
+
+You are now the main user and have additional setting options (Employees / Access / Manage authorizations)."
+Andere;Einstellungen;Rollentausch.Schritt_1.Beschreibung;"Please select an employee who has already been entered for the role swap. The employee receives all your rights and becomes the main user. You and the previously entered employees are now subordinate to them.
+
+The main user can cancel the role swap at any time. You will be logged out after the role swap."
+Andere;Einstellungen;Rollentausch.Schritt_1.Fehler_UnerwarteterFehler;An unexpected error has occurred.
+Andere;Einstellungen;Rollentausch.Schritt_1.Fehler_UngültigeEingabe;The entry is invalid. Please check your entry.
+Andere;Einstellungen;Rollentausch.Schritt_1.Titel;Select employees
+Andere;Einstellungen;Rollentausch.Schritt_2.Fehler_UnerwarteterFehler;An unexpected error has occurred.
+Andere;Einstellungen;Rollentausch.Schritt_2.Fehler_UngültigeEingabe;The entry is invalid. Please check your entry.
+Andere;Einstellungen;Rollentausch.Schritt_2.Titel;Confirmation
+Andere;Einstellungen;Rollentausch.Schritt_2_SMS.Beschreibung;Please confirm the role swap by entering the key you received via SMS.
+Andere;Einstellungen;Rollentausch.Schritt_2_TOTP.Beschreibung;Please confirm the role swap by entering the two-factor app key.
+Andere;Einstellungen;Rollentausch.Titel;Role reversal
+Andere;Einstellungen;Titel;Settings
+Andere;Einstellungen;Zugriffsübersicht.Benutzer;Users
+Andere;Einstellungen;Zugriffsübersicht.Benutzer_auswählen;Select a user to display the authorizations.
+Andere;Einstellungen;Zugriffsübersicht.Berechtigungen;Authorizations
+Andere;Einstellungen;Zugriffsübersicht.Rolle.Arbeitgeber;Employer
+Andere;Einstellungen;Zugriffsübersicht.Rolle.Externe;External access
+Andere;Einstellungen;Zugriffsübersicht.Rolle.Makler;Broker
+Andere;Einstellungen;Zugriffsübersicht.Titel;Access overview
+Andere;Einstellungen;ZweiFaktor.Ändern_1!MobileNr;mobile no.
+Andere;Einstellungen;ZweiFaktor.Ändern_1!Type;Two-factor authentication via
+Andere;Einstellungen;ZweiFaktor.Ändern_2!mTOTP_QRCode;QR code
+Andere;Einstellungen;ZweiFaktor.Ändern_2!SecurityToken;Confirmation key
+Andere;Einstellungen;ZweiFaktor.Ändern_3!SecurityToken;Confirmation key
+Andere;Einstellungen;ZweiFaktor.Beschreibung;You have stored the following two-factor authentication:
+Andere;Einstellungen;ZweiFaktor.Schritt_1.Beschreibung;Access to your user account is additionally protected with two-factor authentication. Please select which option you would like to use to log-in in the future.
+Andere;Einstellungen;ZweiFaktor.Schritt_1.Titel;Two-factor selection
+Andere;Einstellungen;ZweiFaktor.Schritt_2.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Andere;Einstellungen;ZweiFaktor.Schritt_2.Titel;Confirm two-factor
+Andere;Einstellungen;ZweiFaktor.Schritt_2_SMS.Beschreibung;Please enter the confirmation key that was sent to the mobile number '{0}'.
+Andere;Einstellungen;ZweiFaktor.Schritt_2_TOTP.Beschreibung;Please open your Authentificator app and scan the QR code. Then enter the displayed code from the Authentificator app to confirm.
+Andere;Einstellungen;ZweiFaktor.Schritt_3.Titel;Confirmation
+Andere;Einstellungen;ZweiFaktor.Schritt_3_SMS.Beschreibung;For security reasons, an additional confirmation key has been sent to the mobile number currently stored. Please enter the confirmation key to make the change.
+Andere;Einstellungen;ZweiFaktor.Schritt_3_TOTP.Beschreibung;For security reasons, you must confirm the change by entering the previously used two-factor app key.
+Andere;Einstellungen;ZweiFaktor.Titel;Two-factor authentication
+Andere;EmailNotification;BusinessCase.Booked.Betreff;Mutation '{T:[Name].Titel}' booked
+Andere;EmailNotification;BusinessCase.Booked.Nachricht;The Mutation '{T:[Name].Titel}' von [PersVorname] [PersName] was booked.
+Andere;EmailNotification;BusinessCase.Processed.Betreff;The mutation '{T:[Name].Titel}' has been processed
+Andere;EmailNotification;BusinessCase.Processed.Nachricht;The mutation '{T:[Name].Titel}' of [PersVorname] [PersName] has been processed. Please check the online portal.
+Andere;EmailNotification;BusinessCase.Rejected.Betreff;Mutation '{T:[Name].Titel}' refused
+Andere;EmailNotification;BusinessCase.Rejected.Nachricht;The mutation '{T:[Name].Titel}' of [PersVorname] [PersName] has been refused. Please check the online portal.
+Andere;EmailNotification;BusinessCaseBundle.Processed.Betreff;Mutation '{T:[Name].Titel}' processed
+Andere;EmailNotification;BusinessCaseBundle.Processed.Nachricht;Mutation '{T:[Name].Titel}' vfor '[AGName]' processed. Please check the online portal.
+Andere;EmailNotification;BusinessCaseBundle.Rejected.Betreff;Mutation '{T:[Name].Titel}' refused
+Andere;EmailNotification;BusinessCaseBundle.Rejected.Nachricht;Mutation '{T:[Name].Titel}' for '[AGName]' refused. Please check the online portal.
+Andere;EmailNotification;Footer;"Best regards
+SwissPension AG"
+Andere;EmailNotification;GroupedNotification.Betreff;You have {0} new notification(s)
+Andere;EmailNotification;GroupedNotification.Nachricht;You have received {0} new notification(s). Please check the online portal.
+Andere;EmailNotification;Header;Hello
+Andere;EmailNotification;MessageExchange.Betreff;New message
+Andere;EmailNotification;MessageExchange.Nachricht;You have received a new message regarding '[SubjectText]'. Please check the online portal.   
+Andere;EmailNotification;SecurityToken.Betreff;Confirmation key
+Andere;EmailNotification;SecurityToken.Nachricht;Your code: {0}
+Andere;EmailNotification;StorageFile.Betreff;New document
+Andere;EmailNotification;StorageFile.Nachricht;You have received a new document '[FileName]'. Please check the online portal.   
+Andere;Fehler;Thirdparty.UnerwarteterFehler.Beschreibung;An unexpected error has occurred.
+Andere;Fehler;Titel;Error
+Andere;Footer;Adresse;"Personalvorsorgestiftung SIX Group | Hardturmstrasse 201 | 8005 Zurich | <link id=""100001"">www.six-group.com</link>"
+Andere;Footer;Fuss;
+Andere;Footer;Kopf;
+Andere;Identität;Button.Zurück_zum_Login;Return to login
+Andere;Identität;Logout.Beschreibung;You will be logged out and redirected shortly.
+Andere;Identität;Logout.Titel;Logout
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_1.Beschreibung;Please enter your user name.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_1.Fehler_BenutzerGesperrt;Your login is currently blocked.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_1.Fehler_UngültigeEingabe;The entry is not valid. Please check your entry.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_1.Titel;User name
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_2.Beschreibung;Please enter the confirmation key that was sent to your e-mail address.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_2.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_2.Titel;Verification
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_3.Beschreibung;Please enter the new password. The password must be at least 8 characters long and contain characters from the following groups: Numbers, lower case letters, upper case letters, special characters.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_3.Fehler_KennwortRichtlinienNichtEingehalten;The minimum guidelines for the new password are not met. Please check your entry.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_3.Fehler_KennwortWiederholungFalsch;The password you have repeatedly entered is not correct. Please check your entry.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_3.Fehler_UngültigeEingabe;The entry is not valid. Please check your entry.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_3.Titel;New password
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_4.Fehler_UnerwarteterFehler;An unexpected error has occurred.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_4.Fehler_UngültigeEingabe;The entry is not valid. Please check your entry.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_4.Titel;Confirmation
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_4_SMS.Beschreibung;Please confirm the change by entering the key you received via text message.
+Andere;Identität;Zurücksetzung.Kennwort.Schritt_4_TOTP.Beschreibung;Please confirm the change by entering the two-factor app key.
+Andere;IdentityService;Personen.LoginGesperrt.Email.Betreff;{0} | Your login will be deactivated soon
+Andere;IdentityService;Personen.LoginGesperrt.Email.Nachricht;"Please note that your login will be deactivated as of {0:d}.
+If you wish to save any documents, please do so beforehand.
+You will then no longer have access to the portal."
+Andere;Laden;Fehler;Error during loading.
+Andere;Login;Abbrechen;Cancel
+Andere;Login;AccountGesperrt;Your login is currently blocked.
+Andere;Login;Benutzerdaten!Benutzername;User name
+Andere;Login;Benutzerdaten!Benutzername.Hilfe;E-mail address or AHV number (13-digit insured person number)
+Andere;Login;Benutzerdaten!Kennwort;Password
+Andere;Login;BenutzernameKennwortVergessen;Forgotten your username or password?
+Andere;Login;Beschreibung;Please log in with your user name or your social security number (AHV no).
+Andere;Login;ExternerZugriff.Beschreibung;Please log in with your user name.
+Andere;Login;ExternerZugriff.Link;Login for external partners →
+Andere;Login;ExternerZugriff.Titel;Login for external users
+Andere;Login;Fehler;Login failed. Please try again.
+Andere;Login;KennwortVergessen.Link;I have forgotten my password →
+Andere;Login;Registrieren;Register
+Andere;Login;Registrieren.Link;Register →
+Andere;Login;Titel;Login
+Andere;Login;Weiter;continue
+Andere;Login;ZweiFaktor!Token;Two-factor key
+Andere;Meldung;Keine_Daten_vorhanden;No data available
+Andere;Meldung;Transaktion_nicht_möglich;The request cannot be processed at the moment. Please try again later.
+Andere;Meldung;Unerwarteter_Fehler;An unexpected error has occurred.
+Andere;Meldung;Unerwarteter_Fehler.Bericht.Gesendet;Error report sent successfully.
+Andere;Meldung;Unerwarteter_Fehler.Bericht.NichtGesendet;Error report could not be sent, please contact us by e-mail or telephone.
+Andere;Meldung;Unerwarteter_Fehler.Fehlercode;Error code:
+Andere;MessageExchange;Ansprechperson;Contact person
+Andere;MessageExchange;Ansprechperson.Fuss;
+Andere;MessageExchange;Ansprechperson.Kopf;
+Andere;MessageExchange;Ansprechperson1.Fuss;
+Andere;MessageExchange;Ansprechperson1.Kopf;
+Andere;MessageExchange;Ansprechperson2.Fuss;
+Andere;MessageExchange;Ansprechperson2.Kopf;
+Andere;MessageExchange;Ansprechperson3.Fuss;
+Andere;MessageExchange;Ansprechperson3.Kopf;
+Andere;MessageExchange;Ansprechperson4.Fuss;
+Andere;MessageExchange;Ansprechperson4.Kopf;
+Andere;MessageExchange;Ansprechperson5.Fuss;
+Andere;MessageExchange;Ansprechperson5.Kopf;
+Andere;MessageExchange;Ansprechpersonen;Contact persons
+Andere;MessageExchange;Arbeitgeber;Employer
+Andere;MessageExchange;Archiviert;Archived
+Andere;MessageExchange;Betreff;Subject:
+Andere;MessageExchange;Button_Neue_Nachricht_bearbeiten;Edit
+Andere;MessageExchange;Button_Neue_Nachricht_erfassen;Create new message
+Andere;MessageExchange;Button_Neue_Nachricht_löschen;Delete
+Andere;MessageExchange;Button_Neue_Nachricht_wiederholen;Repeat
+Andere;MessageExchange;Datei_hinzufügen;Add file
+Andere;MessageExchange;Deleted;This message has been deleted.
+Andere;MessageExchange;Fuss;
+Andere;MessageExchange;Ich;I
+Andere;MessageExchange;Keine_Dateien_ausgewählt;No files selected
+Andere;MessageExchange;Kontakt.Details;"Hardturmstrasse 201
+CH-8005 Zurich
+pk@six-group.com
+"
+Andere;MessageExchange;Kontakt.Name;Personalvorsorgestiftung SIX Group
+Andere;MessageExchange;Kopf;
+Andere;MessageExchange;Mehr_anzeigen;View more
+Andere;MessageExchange;Mobile.Ansprechperson;Select contact person
+Andere;MessageExchange;Mobile.Betreff;Write subject line
+Andere;MessageExchange;Mobile.Nachricht;Write a new message...
+Andere;MessageExchange;Mobile.Neue_Nachricht;New message
+Andere;MessageExchange;Nachricht;Message:
+Andere;MessageExchange;Nachrichten;News
+Andere;MessageExchange;Nachrichten.Fuss;
+Andere;MessageExchange;Nachrichten.Kopf;
+Andere;MessageExchange;Neue_Nachricht;New message
+Andere;MessageExchange;Pensionskasse.Fuss;
+Andere;MessageExchange;Pensionskasse.Kopf;
+Andere;MessageExchange;Senden;Send
+Andere;MessageExchange;SubjectInfo.Eintritt;Joining as of
+Andere;MessageExchange;Titel;Contact
+Andere;MessageExchange;Verhältnis;Pension relationship:
+Andere;MessageExchange;Zuständig_für;Responsible for:
+Andere;Notification;BusinessCase.Booked.Beschreibung;[PersVorname] [PersName] | booked
+Andere;Notification;BusinessCase.Booked.Titel;{T:[Name].Titel}
+Andere;Notification;BusinessCase.Processed.Beschreibung;[PersVorname] [PersName] | processed
+Andere;Notification;BusinessCase.Processed.Titel;{T:[Name].Titel}
+Andere;Notification;BusinessCase.Rejected.Beschreibung;[PersVorname] [PersName] | refused
+Andere;Notification;BusinessCase.Rejected.Titel;{T:[Name].Titel}
+Andere;Notification;BusinessCaseBundle.Processed.Beschreibung;[AGName] | processed
+Andere;Notification;BusinessCaseBundle.Processed.Titel;{T:[Name].Titel}
+Andere;Notification;BusinessCaseBundle.Rejected.Beschreibung;[AGName] | refused
+Andere;Notification;BusinessCaseBundle.Rejected.Titel;{T:[Name].Titel}
+Andere;Notification;MessageExchange.Beschreibung;[SubjectText]
+Andere;Notification;MessageExchange.Titel;New message
+Andere;Notification;StorageFile.Beschreibung;[FileName]
+Andere;Notification;StorageFile.Titel;New document
+Andere;Notification;Titel;Notifications
+Andere;PushNotification;BusinessCase.Booked.Beschreibung;[PersVorname] [PersName] | booked
+Andere;PushNotification;BusinessCase.Booked.CustomDataKey;BusinessCaseId
+Andere;PushNotification;BusinessCase.Booked.CustomDataValue;[GFID]
+Andere;PushNotification;BusinessCase.Booked.Kampagne;Mutation.booked
+Andere;PushNotification;BusinessCase.Booked.Titel;{T:[Name].Titel}
+Andere;PushNotification;BusinessCase.Processed.Beschreibung;[PersVorname] [PersName] | processed
+Andere;PushNotification;BusinessCase.Processed.CustomDataKey;BusinessCaseId
+Andere;PushNotification;BusinessCase.Processed.CustomDataValue;[GFID]
+Andere;PushNotification;BusinessCase.Processed.Kampagne;Mutation.processed
+Andere;PushNotification;BusinessCase.Processed.Titel;{T:[Name].Titel}
+Andere;PushNotification;BusinessCase.Rejected.Beschreibung;[PersVorname] [PersName] | refused
+Andere;PushNotification;BusinessCase.Rejected.CustomDataKey;BusinessCaseId
+Andere;PushNotification;BusinessCase.Rejected.CustomDataValue;[GFID]
+Andere;PushNotification;BusinessCase.Rejected.Kampagne;Mutation.refused
+Andere;PushNotification;BusinessCase.Rejected.Titel;{T:[Name].Titel}
+Andere;PushNotification;BusinessCaseBundle.Processed.Beschreibung;
+Andere;PushNotification;BusinessCaseBundle.Processed.CustomDataKey;
+Andere;PushNotification;BusinessCaseBundle.Processed.CustomDataValue;
+Andere;PushNotification;BusinessCaseBundle.Processed.Titel;
+Andere;PushNotification;BusinessCaseBundle.Rejected.Beschreibung;
+Andere;PushNotification;BusinessCaseBundle.Rejected.CustomDataKey;
+Andere;PushNotification;BusinessCaseBundle.Rejected.CustomDataValue;
+Andere;PushNotification;BusinessCaseBundle.Rejected.Titel;
+Andere;PushNotification;GroupedNotification.Beschreibung;You have received {0} new notification(s). Please check the online portal.
+Andere;PushNotification;GroupedNotification.CustomDataKey;NotificationsPage
+Andere;PushNotification;GroupedNotification.CustomDataValue;
+Andere;PushNotification;GroupedNotification.Kampagne;GroupedNotification
+Andere;PushNotification;GroupedNotification.Titel;{0} new notification(s)
+Andere;PushNotification;MessageExchange.Beschreibung;[SubjectText]
+Andere;PushNotification;MessageExchange.CustomDataKey;MessageExchangeId
+Andere;PushNotification;MessageExchange.CustomDataValue;[MessageExchangeId]
+Andere;PushNotification;MessageExchange.Kampagne;[Campaign]
+Andere;PushNotification;MessageExchange.Titel;new messsage
+Andere;PushNotification;StorageFile.Beschreibung;open [FileName] now
+Andere;PushNotification;StorageFile.CustomDataKey;StorageFileId
+Andere;PushNotification;StorageFile.CustomDataValue;documents
+Andere;PushNotification;StorageFile.Kampagne;[Campaign]
+Andere;PushNotification;StorageFile.Titel;New document
+Andere;Report;Abbrechen;cancel
+Andere;Report;Eingabe;Input
+Andere;Report;Öffnen;Open
+Andere;Services;Titel;Services
+Andere;Settings;Erfolgreich;Change successful.
+Andere;Settings;KennwortÄndern;Please change your password.
+Andere;Settings;Titel;Settings
+Andere;SmsNotification;BusinessCase.Booked.Mitteilung;The Mutation '{T:[Name].Titel}' von [PersVorname] [PersName] was booked.
+Andere;SmsNotification;BusinessCase.Processed.Mitteilung;The mutation '{T:[Name].Titel}' of [PersVorname] [PersName] has been processed. Please check the online portal.
+Andere;SmsNotification;BusinessCase.Rejected.Mitteilung;The mutation '{T:[Name].Titel}' of [PersVorname] [PersName] has been refused. Please check the online portal.
+Andere;SmsNotification;BusinessCaseBundle.Processed.Mitteilung;Mutation '{T:[Name].Titel}' for '[AGName]' refused. Please check the online portal.
+Andere;SmsNotification;BusinessCaseBundle.Rejected.Mitteilung;Mutation '{T:[Name].Titel}' for '[AGName]' refused. Please check the online portal.
+Andere;SmsNotification;Footer;"Best regards
+SwissPension AG"
+Andere;SmsNotification;GroupedNotification.Mitteilung;You have received {0} new notification(s). Please check the online portal.
+Andere;SmsNotification;Header;
+Andere;SmsNotification;MessageExchange.Mitteilung;New message arrived. Please check the online portal.
+Andere;SmsNotification;SecurityToken.Nachricht;Your Code: {0}
+Andere;SmsNotification;StorageFile.Mitteilung;New document arrived. Please check the online portal.
+Andere;StorageFile;Filter;concerns
+Andere;StorageFile;Filter.Alle_abwählen;deselect all
+Andere;StorageFile;Filter.Alle_auswählen;select all
+Andere;StorageFile;Filter.Keine_Zuordnung;No assignment
+Andere;StorageFile;Filter_gesetzt;Not all entries are displayed because a filter is set.
+Andere;StorageFile;Gefunden_in;Found in:
+Andere;StorageFile;Leer;No documents available...
+Andere;StorageFile;Meine_Dokumente;My documents
+Andere;StorageFile;Neue_Dokumente;new documents
+Andere;StorageFile;Öffnen_Fehler;The document could not be opened. Please contact us.
+Andere;StorageFile;Ordner.Arbeitgeber.Formulare_und_Merkblätter;Forms and Information sheets
+Andere;StorageFile;Ordner.Arbeitgeber.Formulare_und_Merkblätter.Beschreibung;
+Andere;StorageFile;Ordner.Arbeitgeber.Meine_Dokumente;My documents
+Andere;StorageFile;Ordner.Arbeitgeber.Meine_Dokumente.Beschreibung;
+Andere;StorageFile;Ordner.ArbeitgeberMeineDokumente;My documents
+Andere;StorageFile;Ordner.ArbeitgeberMeineDokumente.Beschreibung;
+Andere;StorageFile;Ordner.NameZusatz;{0} Documents
+Andere;StorageFile;Ordner.Personen.Formulare_und_Merkblätter;Forms and Information sheets
+Andere;StorageFile;Ordner.Personen.Formulare_und_Merkblätter.Beschreibung;
+Andere;StorageFile;Ordner.Personen.Meine_Dokumente;My documents
+Andere;StorageFile;Ordner.Personen.Meine_Dokumente.Beschreibung;
+Andere;StorageFile;Ordner.Personen.Reglemente;Rules and regulations
+Andere;StorageFile;Ordner.Personen.Reglemente.Beschreibung;
+Andere;StorageFile;Ordner.Test;test
+Andere;StorageFile;Ordner.Test.Beschreibung;
+Andere;StorageFile;Ordner.test_1;test 1
+Andere;StorageFile;Ordner.test_1.Beschreibung;
+Andere;StorageFile;Suchen;Searching…
+Andere;StorageFile;Suchen_Leer;No documents found...
+Andere;StorageFile;Titel;documents
+Andere;StorageFile;Treffer;Hit(s)
+Andere;StorageFile;Zurück;back
+Andere;Support;Dialog.LabelPin;please enter PIN:
+Andere;Support;Dialog.Text;We will be happy to help you. Give us a call and ask for a PIN. This will give us access to your browser, making it easier for us to provide suppo
+Andere;Support;NichtUnterstützt;Your device or browser does not support this function.
+Andere;TopNavbar;Brand;"<link id=""100001"">Company</link><link id=""100002"">News</link><link id=""100003"">Forms/regulations</link>"
+Andere;TopNavBar;Notification.Alle_Benachrichtungen_löschen;Delete all notifications
+Andere;Tos;Akzeptieren;Accept
+Andere;Tos;Beschreibung;We have adapted our <tos>terms of use</tos>. Please read and accept them before continuing with your work.
+Andere;Tos;Titel;Terms of use adapted
+Andere;User;Abmelden;Log out
+Andere;User;Angemeldet_als;Registered as
+Andere;UserInfo;Email;pk@six-group.com
+Andere;UserInfo;Kontaktperson;Personalvorsorgestiftung SIX Group
+Andere;UserInfo;Telefon;+41 55 420 44 44
+Andere;Validierung;AngabeErforderlich;This information is required.
+Andere;Validierung;AnzahlZeichen;The input may be a maximum of {0} characters long.
+Andere;Validierung;DateiLeer;The file is empty.
+Andere;Validierung;DateiNichtErlaubt;Only the following file types are permitted: .docx, .xlsx, .pdf, .tif, .tiff, .png, .zip
+Andere;Validierung;DateiZuGross;The file must not exceed 25 MB in size.
+Andere;Validierung;UngültigerWert;The entry is not valid.
+Andere;Validierung;UngültigesFormat;The input is not in the required format.
+Andere;Warnung;KeineEmail;We do not have your e-mail address. Please enter it in the settings so that you will be notified of any news.
+Andere;Warnung;KeineEmailUndMobil;We do not have your e-mail address or mobile phone number. Please enter these in the settings so that you will be notified of any news.
+Andere;Warnung;KeinMobil;We do not have your mobile phone number. Please enter it in the settings so that you will be notified of any news.
+Andere;Wartungsmodus;Aktuell.Text;The portal is currently unavailable due to maintenance work.
+Andere;Wartungsmodus;Aktuell.Text.Bis;The portal will not be available until {0} due to maintenance work.
+Andere;Wartungsmodus;Aktuell.Text.VonBis;The portal will be unavailable from {0} to {1} due to maintenance work.
+Andere;Wartungsmodus;Aktuell.Titel;Maintenance window
+Andere;Wartungsmodus;Geplant.Text.Von;The portal will not be available from {0} due to maintenance work.
+Andere;Wartungsmodus;Geplant.Text.VonBis;The portal will be unavailable from {0} to {1} due to maintenance work.
+Andere;Wartungsmodus;Geplant.Titel;Maintenance window planned
+Andere;Wartungsmodus;Individuell.Text;
+Andere;Wartungsmodus;Individuell.Titel;
+Andere;Zurücksetzung;Kennwort.Abschluss;You have successfully reset your password. Please return to the login.
+Andere;Zurücksetzung;Kennwort.Schritt_1!Username;User name
+Andere;Zurücksetzung;Kennwort.Schritt_2!SecurityToken;Confirmation key
+Andere;Zurücksetzung;Kennwort.Schritt_3!NewPassword;Password
+Andere;Zurücksetzung;Kennwort.Schritt_3!NewPasswordRetyped;Repeat password
+Andere;Zurücksetzung;Kennwort.Schritt_4!SecurityToken;Confirmation key
+Andere;Zurücksetzung;Kennwort.Titel;Reset password
+Personen;Anstellungen;Austritt;Leaving as of
+Personen;Anstellungen;Eintritt;Joining as of
+Personen;Dashboard;Aktivität;Activity
+Personen;Dashboard;Aktivität.Fuss;
+Personen;Dashboard;Aktivität.Kopf;
+Personen;Dashboard;Aktivitäten;Activity/Activities
+Personen;Dashboard;Alle_anzeigen;Show all
+Personen;Dashboard;Anstellungen.Fuss;
+Personen;Dashboard;Anstellungen.Kopf;
+Personen;Dashboard;Berichte;Reports
+Personen;Dashboard;Berichte.Fuss;
+Personen;Dashboard;Berichte.Kopf;
+Personen;Dashboard;Box.Fuss;
+Personen;Dashboard;Box.Kopf;
+Personen;Dashboard;Fuss;
+Personen;Dashboard;Kopf;
+Personen;Dashboard;Mitte.Fuss;
+Personen;Dashboard;Mitte.Kopf;
+Personen;Dashboard;Mitteilung.KeineAnstellungen;Your pension relationships will be activated from the contract date.
+Personen;Dashboard;Mutationen.Link;Would you like to carry out a mutation? Then click here.
+Personen;Dashboard;Profil.Titel;My profile
+Personen;Dashboard;Simulationen.Link;Would you like to run a simulation? Then click here.
+Personen;Dashboard;Simulationen_Mutationen.Link;Would you like to carry out a simulation or mutation? Then click here.
+Personen;Einstellungen;Versandart_SIX!Sprache;Correspondence language
+Personen;Einstellungen;Versandart_SIX!VersandArt;Delivery of documents
+Personen;Einstellungen;Versandart_SIX.Beschreibung;
+Personen;Einstellungen;Versandart_SIX.Titel;Correspondence
+Personen;MessageExchange;Kontaktpersonen1;Contact persons
+Personen;MessageExchange;Kontaktpersonen2;Contact persons
+Personen;MessageExchange;Kontaktpersonen3;Contact persons
+Personen;MessageExchange;Kontaktpersonen4;Contact persons
+Personen;MessageExchange;Kontaktpersonen5;Contact persons
+Personen;Mutation;Wohnadresse_SIX.1!Land;Country
+Personen;Mutation;Wohnadresse_SIX.1!Name;Name
+Personen;Mutation;Wohnadresse_SIX.1!Ort;Place
+Personen;Mutation;Wohnadresse_SIX.1!PLZ;Postcode
+Personen;Mutation;Wohnadresse_SIX.1!Postfach;P.O. Box
+Personen;Mutation;Wohnadresse_SIX.1!Strasse;Street
+Personen;Mutation;Wohnadresse_SIX.1!Vorname;First name
+Personen;Mutation;Wohnadresse_SIX.1!Zusatz;Addition
+Personen;Mutation;Wohnadresse_SIX.1.Titel;Input
+Personen;Mutation;Wohnadresse_SIX.Beschreibung;Change your home address here
+Personen;Mutation;Wohnadresse_SIX.Titel;Home address
+Personen;Mutation;Zivilstand_SIX.1!HeiratsDatum;Marriage date
+Personen;Mutation;Zivilstand_SIX.1!Name;New name
+Personen;Mutation;Zivilstand_SIX.1!ScheidungsDatum;Date of divorce
+Personen;Mutation;Zivilstand_SIX.1!Zivilstand;New marital status
+Personen;Mutation;Zivilstand_SIX.1.Titel;Input
+Personen;Mutation;Zivilstand_SIX.1.Validierung.1;Please change the marital status.
+Personen;Mutation;Zivilstand_SIX.1.Validierung.2;The date must not be in the future.
+Personen;Mutation;Zivilstand_SIX.Beschreibung;Change your marital status here
+Personen;Mutation;Zivilstand_SIX.Dokument.Bestätigung_FZL_Heirat;Confirmation of vested benefits on marriage
+Personen;Mutation;Zivilstand_SIX.Titel;marital status
+Personen;Registrierung;Abschluss;You have successfully registered and will be redirected shortly.
+Personen;Registrierung;Beschreibung;Are you an active employee or a pensioner?
+Personen;Registrierung;Schritt_1!ActivationCode;Activation code
+Personen;Registrierung;Schritt_1!AGB;"I have read the <tos id=""PersID"">terms of use</tos> and accept them."
+Personen;Registrierung;Schritt_1!AHVID;AHV number (13-digit insured person number)
+Personen;Registrierung;Schritt_1!GebDatum;Date of birth
+Personen;Registrierung;Schritt_1.Beschreibung;Please enter the identification features.
+Personen;Registrierung;Schritt_1.Fehler_IdentifikationFehlgeschlagen;Identification failed. Please check your entries.
+Personen;Registrierung;Schritt_1.Titel;Identification
+Personen;Registrierung;Schritt_1.Validierung.1;Format of AHV number not correct.
+Personen;Registrierung;Schritt_1.Validierung.2;Please read and accept the terms of use.
+Personen;Registrierung;Schritt_2!Email;e-mail address
+Personen;Registrierung;Schritt_2!Kennwort;Password
+Personen;Registrierung;Schritt_2!Kennwort2;Repeat password
+Personen;Registrierung;Schritt_2.Beschreibung;Please enter your user data and your new password. The password must be at least 8 characters long and contain characters from the following groups: Numbers, lower case letters, upper case letters, special characters.
+Personen;Registrierung;Schritt_2.Fehler_EingabeÜberprüfen;Please check your entry.
+Personen;Registrierung;Schritt_2.Fehler_EmailExistiertBereits;This e-mail address is already in use. Please enter a different e-mail address.
+Personen;Registrierung;Schritt_2.Fehler_KennwortRichtlinienNichtEingehalten;The minimum guidelines for the new password are not met. Please check your entry.
+Personen;Registrierung;Schritt_2.Titel;User data
+Personen;Registrierung;Schritt_2.Validierung.1;Please enter a valid e-mail address.
+Personen;Registrierung;Schritt_2.Validierung.2;The password is different.
+Personen;Registrierung;Schritt_3!SecurityToken;Confirmation key
+Personen;Registrierung;Schritt_3.Beschreibung;Please enter the confirmation key that was sent to the e-mail address '{0}'.
+Personen;Registrierung;Schritt_3.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Personen;Registrierung;Schritt_3.Titel;Confirm e-mail
+Personen;Registrierung;Schritt_4!MobileNr;mobile no.
+Personen;Registrierung;Schritt_4!Type;Two-factor authentication via
+Personen;Registrierung;Schritt_4.Beschreibung;Access to your user account is additionally protected with two-factor authentication. Please select which variant you would like to use to log in in future.
+Personen;Registrierung;Schritt_4.Fehler_EingabeÜberprüfen;Please check your entry.
+Personen;Registrierung;Schritt_4.Titel;Two-factor selection
+Personen;Registrierung;Schritt_5!mTOTP_QRCode;QR Code
+Personen;Registrierung;Schritt_5!SecurityToken;Confirmation key
+Personen;Registrierung;Schritt_5.Beschreibung;
+Personen;Registrierung;Schritt_5.Fehler_TokenUngültig;The key you entered is not valid. Please check your entry.
+Personen;Registrierung;Schritt_5.Fehler_UnerwarteterFehler;An unexpected error has occurred. Please try the registration again.
+Personen;Registrierung;Schritt_5.Titel;Confirm two-factor
+Personen;Registrierung;Schritt_5_SMS.Beschreibung;Please enter the confirmation key that was sent to the mobile number '{0}'.
+Personen;Registrierung;Schritt_5_TOTP.Beschreibung;Please open your Authentificator app and scan the QR code. Then enter the displayed code from the Authentificator app to confirm.
+Personen;Registrierung;Titel;Active person or pensioner
+Rentner;Mutation;Stammdaten.Schritt1.Titel;Master data change
+Rentner;Mutation;Stammdaten.Schritt2.Titel;Check
+Versicherte;Dashboard;Aktuelle_Angaben_SIX!AGName;Employer
+Versicherte;Dashboard;Aktuelle_Angaben_SIX!AHVLohn;"Annual salary ""Pension Plan"""
+Versicherte;Dashboard;Aktuelle_Angaben_SIX!BeschGrad;Degree of employment
+Versicherte;Dashboard;Aktuelle_Angaben_SIX!Eintritt;Joining as of
+Versicherte;Dashboard;Aktuelle_Angaben_SIX!PKPlanKatText;Savings plan
+Versicherte;Dashboard;Aktuelle_Angaben_SIX!Stichtag;Effective date
+Versicherte;Dashboard;Aktuelle_Angaben_SIX.ButtonTitel;
+Versicherte;Dashboard;Aktuelle_Angaben_SIX.Titel;Personal data / additional data
+Versicherte;Dashboard;Altersguthaben_SIX!AuskapTotal;Current retirement assets Total
+Versicherte;Dashboard;Altersguthaben_SIX!AuskapTotalBVG;Current BVG/LOB retirement assets
+Versicherte;Dashboard;Altersguthaben_SIX.ButtonTitel;
+Versicherte;Dashboard;Altersguthaben_SIX.Titel;Retirement assets as of reporting date
+Versicherte;Dashboard;Alterskonto_SIX!Ausbuchung;Derecognition
+Versicherte;Dashboard;Alterskonto_SIX!Einlagen;Inlays
+Versicherte;Dashboard;Alterskonto_SIX!GutschriftAG;Employer contribution
+Versicherte;Dashboard;Alterskonto_SIX!GutschriftAN;Employee contribution
+Versicherte;Dashboard;Alterskonto_SIX!Jahr;Year
+Versicherte;Dashboard;Alterskonto_SIX!SaldoBeginn;Balance as of 01.01.
+Versicherte;Dashboard;Alterskonto_SIX!SaldoEnde;Balance as of 31.12.
+Versicherte;Dashboard;Alterskonto_SIX!Vorbezug;Early withdrawal
+Versicherte;Dashboard;Alterskonto_SIX!Zins;Interest
+Versicherte;Dashboard;Alterskonto_SIX.Beschreibung;
+Versicherte;Dashboard;Alterskonto_SIX.ButtonTitel;Development of retirement assets
+Versicherte;Dashboard;Alterskonto_SIX.Fuss!Das_Altersguthaben_ist_immer_mit_Bonus_berücksichtigt.;The retirement assets are always taken into account including bonus.
+Versicherte;Dashboard;Alterskonto_SIX.Titel;Development of retirement assets
+Versicherte;Dashboard;Anstellung.Auswahl.A;Insured person view
+Versicherte;Dashboard;Anstellung.Auswahl.W;Insured person view
+Versicherte;Dashboard;Austrittsleistung_SIX!AuskapTotal;Total retirement assets as of reporting date
+Versicherte;Dashboard;Austrittsleistung_SIX!AuskapTotalBVG;BVG/LOB retirement assets
+Versicherte;Dashboard;Austrittsleistung_SIX.ButtonTitel;
+Versicherte;Dashboard;Austrittsleistung_SIX.Titel;Termination benefits
+Versicherte;Dashboard;Beitragskonto_SIX!BeitragsPeriode;Period
+Versicherte;Dashboard;Beitragskonto_SIX!Jahr;Year
+Versicherte;Dashboard;Beitragskonto_SIX!RisikoAG;Risk Employer
+Versicherte;Dashboard;Beitragskonto_SIX!RisikoAN;Risk Employee
+Versicherte;Dashboard;Beitragskonto_SIX!RisikoZusatzAG;Risk Bonus Employer
+Versicherte;Dashboard;Beitragskonto_SIX!RisikoZusatzAN;Risk Bonus Employee
+Versicherte;Dashboard;Beitragskonto_SIX!SparAG;Savings Employer
+Versicherte;Dashboard;Beitragskonto_SIX!SparAN;Saving Employee
+Versicherte;Dashboard;Beitragskonto_SIX!TotalAG;Total Employer
+Versicherte;Dashboard;Beitragskonto_SIX!TotalAN;Total Employee
+Versicherte;Dashboard;Beitragskonto_SIX!ZusatzAG;Savings Bonus Employer
+Versicherte;Dashboard;Beitragskonto_SIX!ZusatzAN;Savings bonus Employee
+Versicherte;Dashboard;Beitragskonto_SIX.Beschreibung;
+Versicherte;Dashboard;Beitragskonto_SIX.ButtonTitel;Financing
+Versicherte;Dashboard;Beitragskonto_SIX.Titel;Contributions
+Versicherte;Dashboard;Box.Detaillierte Leistungen.ButtonTitel;
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!Alter;Age
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!AR;RP
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!ARTotal;RP Total
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!ARZusatz;RP Bonus
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!Projkap;Projkap
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!ProjkapZusatz;Projkap Bonus
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!RentenSatz;CR
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX!RentenSatzZusatz;CR Bonus
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.Fuss!AR_=_Altersrente;RP = Retirement pension
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.Fuss!Legende;Legend
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.Fuss!Projkap_=_Projiziertes_Altersguthaben;Projkap = Projected retirement assets
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.Fuss!UWS_=_Umwandlungssatz;CR = conversion rate
+Versicherte;Dashboard;Box.Detaillierte_Alter_SIX.Titel;Detailed retirement benefits
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX!IR;Disability pension
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX!IRK;Disabled persons child's pension
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX!IRKTotal;Disabled persons child's pension Total
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX!IRKZusatz;Disabled persons child's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX!IRTotal;Disability pension Total
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX!IRZusatz;Disability pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_IV_SIX.Titel;Detailed disability benefits
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX!IR;Disability pension
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX!IRK;Disabled persons child's pension
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX!IRKTotal;Disabled persons child's pension Total
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX!IRKZusatz;Disabled persons child's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX!IRTotal;Disability pension Total
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX!IRZusatz;Disability pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_IVAlter_SIX.Titel;Detailed disability benefits
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!HR;Spouse's pension / partner's pension
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!HRK;Orphan's pension
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!HRKTotal;Orphan's pension Total
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!HRKZusatz;Orphan's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!HRTotal;Spouse's pension / partner's pension Total
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!HRZusatz;Spouse's pension / partner's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!TK;Lump-sum death benefit
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!TKZusatz;Lump-sum death benefit Bonus
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX!xSaldoZusatzkontoEnde2023;of which additional account balance as of 31.12.2023
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_IVTod_SIX.Titel;Detailed death benefits
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!HR;Spouse's pension / partner's pension
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!HRK;Orphan's pension
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!HRKTotal;Orphan's pension Total
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!HRKZusatz;Orphan's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!HRTotal;Spouse's pension / partner's pension Total
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!HRZusatz;Spouse's pension / partner's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!TK;Lump-sum death benefit (minimum benefit)
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!TKZusatz;Lump-sum death benefit Bonus
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX!xSaldoZusatzkontoEnde2023;of which additional account balance as of 31.12.2023
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_Tod_SIX.Titel;Detailed death benefits
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!Alter;Age
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!AR;RP
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!ARTotal;RP Total
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!ARZusatz;RP Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!Projkap;Projkap
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!ProjkapZusatz;Projkap Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!RentenSatz;CR
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX!RentenSatzZusatz;CR Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.Fuss!AR_=_Altersrente;RP = Retirement pension
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.Fuss!Legende;Legend
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.Fuss!Projkap_=_Projiziertes_Altersguthaben;Projkap = Projected retirement assets
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.Fuss!UWS_=_Umwandlungssatz;CR = conversion rate
+Versicherte;Dashboard;Box.Detaillierte_TodAlter_SIX.Titel;Detailed retirement benefits
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX!IR;Disability pension
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX!IRK;Disabled persons child's pension
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX!IRKTotal;Disabled persons child's pension Total
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX!IRKZusatz;Disabled persons child's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX!IRTotal;Disability pension Total
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX!IRZusatz;Disability pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_TodIV_SIX.Titel;Detailed disability benefits
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!HR;Spouse's pension / partner's pension
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!HRK;Orphan's pension
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!HRKTotal;Orphan's pension Total
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!HRKZusatz;Orphan's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!HRTotal;Spouse's pension / partner's pension Total
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!HRZusatz;Spouse's pension / partner's pension Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!TK;Lump-sum death benefit
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!TKZusatz;Lump-sum death benefit Bonus
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX!xSaldoZusatzkontoEnde2023;of which additional account balance as of 31.12.2023
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Detaillierte_TodTod_SIX.Titel;Detailed death benefits
+Versicherte;Dashboard;Box.Primary_SIX!AR;Retirment pension total per age 65
+Versicherte;Dashboard;Box.Primary_SIX!ARK;Pensioner's child's pension Total
+Versicherte;Dashboard;Box.Primary_SIX!ARKZusatz;Pensioner's child's pension Bonus
+Versicherte;Dashboard;Box.Primary_SIX!ARZusatz;Retirment pension Bonus
+Versicherte;Dashboard;Box.Primary_SIX!PensDatum;Date of retirement
+Versicherte;Dashboard;Box.Primary_SIX!Projkap;Projection Total
+Versicherte;Dashboard;Box.Primary_SIX!ProjkapZusatz;Projection Bonus
+Versicherte;Dashboard;Box.Primary_SIX!RentenSatz;Conversion rate
+Versicherte;Dashboard;Box.Primary_SIX.Titel;Retirement benefits
+Versicherte;Dashboard;Box.Projektionen_SIX!Alter;Age
+Versicherte;Dashboard;Box.Projektionen_SIX!AR;RP
+Versicherte;Dashboard;Box.Projektionen_SIX!ARTotal;RP Total
+Versicherte;Dashboard;Box.Projektionen_SIX!ARZusatz;RP Bonus
+Versicherte;Dashboard;Box.Projektionen_SIX!Projkap;Projkap
+Versicherte;Dashboard;Box.Projektionen_SIX!ProjkapZusatz;Projkap Bonus
+Versicherte;Dashboard;Box.Projektionen_SIX!RentenSatz;CR
+Versicherte;Dashboard;Box.Projektionen_SIX!RentenSatzZusatz;CR Bonus
+Versicherte;Dashboard;Box.Projektionen_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Projektionen_SIX.ButtonTitel;Detailed view
+Versicherte;Dashboard;Box.Projektionen_SIX.Fuss!AR_=_Altersrente;RP = Retirement pension
+Versicherte;Dashboard;Box.Projektionen_SIX.Fuss!Legende;Legend
+Versicherte;Dashboard;Box.Projektionen_SIX.Fuss!Projkap_=_Projiziertes_Altersguthaben;Projkap = Projected retirement assets
+Versicherte;Dashboard;Box.Projektionen_SIX.Fuss!UWS_=_Umwandlungssatz;CR = conversion rate
+Versicherte;Dashboard;Box.Projektionen_SIX.Titel;Detailed retirement benefits
+Versicherte;Dashboard;Box.Secondary_SIX!IR;Disability pension Total
+Versicherte;Dashboard;Box.Secondary_SIX!IRK;Disabled persons child's pension Total
+Versicherte;Dashboard;Box.Secondary_SIX!IRKZusatz;Disabled persons child's pension Bonus
+Versicherte;Dashboard;Box.Secondary_SIX!IRZusatz;Disability pension Bonus
+Versicherte;Dashboard;Box.Secondary_SIX.Titel;Disability benefits
+Versicherte;Dashboard;Box.Tertiary_SIX!HR;Spouse's pension / partner's pension Total
+Versicherte;Dashboard;Box.Tertiary_SIX!HRK;Orphan's pension Total
+Versicherte;Dashboard;Box.Tertiary_SIX!HRKZusatz;Orphan's pension Bonus
+Versicherte;Dashboard;Box.Tertiary_SIX!HRZusatz;Spouse's pension / partner's pension Bonus
+Versicherte;Dashboard;Box.Tertiary_SIX!TK;Lump-sum death benefit (minimum benefit)
+Versicherte;Dashboard;Box.Tertiary_SIX!TKZusatz;Lump-sum death benefit Bonus
+Versicherte;Dashboard;Box.Tertiary_SIX!xSaldoZusatzkontoEnde2023;Lump-sum death benefit Supplement 31.12. SAP
+Versicherte;Dashboard;Box.Tertiary_SIX.Beschreibung;
+Versicherte;Dashboard;Box.Tertiary_SIX.ButtonTitel;
+Versicherte;Dashboard;Box.Tertiary_SIX.Titel;Death benefits
+Versicherte;Dashboard;Einlagen_SIX!Beschreibung;Booking type
+Versicherte;Dashboard;Einlagen_SIX!Betrag;Amount
+Versicherte;Dashboard;Einlagen_SIX!BetragBVG;part BVG/LOB
+Versicherte;Dashboard;Einlagen_SIX!BetragZusatz;Bonus
+Versicherte;Dashboard;Einlagen_SIX!Jahr;Year
+Versicherte;Dashboard;Einlagen_SIX!ValDatum;Value date
+Versicherte;Dashboard;Einlagen_SIX.Beschreibung;
+Versicherte;Dashboard;Einlagen_SIX.ButtonTitel;Development of retirement assets
+Versicherte;Dashboard;Einlagen_SIX.Titel;Inlays
+Versicherte;Dashboard;Finanzierung_SIX!PKLohnRisikoZusatz;Insured Bonus risk (⌀ of the last 3 years)
+Versicherte;Dashboard;Finanzierung_SIX!PKLohnSpar;"Insured annual salary ""Pension Plan"""
+Versicherte;Dashboard;Finanzierung_SIX!RisikoAGj;Risk Employer
+Versicherte;Dashboard;Finanzierung_SIX!RisikoAGPrz;Risk Empolyer %
+Versicherte;Dashboard;Finanzierung_SIX!RisikoANj;Risk Employee
+Versicherte;Dashboard;Finanzierung_SIX!RisikoANPrz;Risk Employee %
+Versicherte;Dashboard;Finanzierung_SIX!RisikoZusatzAGprz;Risk Bonus Employer %
+Versicherte;Dashboard;Finanzierung_SIX!RisikoZusatzANprz;Risk Bonus Employee %
+Versicherte;Dashboard;Finanzierung_SIX!SparAGj;Savings Employer
+Versicherte;Dashboard;Finanzierung_SIX!SparAGPrz;Savings Employer %
+Versicherte;Dashboard;Finanzierung_SIX!SparANj;Saving Employee
+Versicherte;Dashboard;Finanzierung_SIX!SparANPrz;Savings Employee %
+Versicherte;Dashboard;Finanzierung_SIX!xSummeBonusLohnLaufjahr;Insured Bonus savings
+Versicherte;Dashboard;Finanzierung_SIX!xSummeRisikoZusatzAGj;Risk contribution Bonus Employer
+Versicherte;Dashboard;Finanzierung_SIX!xSummeRisikoZusatzANj;Risk contribution Bonus Employee
+Versicherte;Dashboard;Finanzierung_SIX!xSummeZusatzAGj;Savings Bonus Employer
+Versicherte;Dashboard;Finanzierung_SIX!xSummeZusatzANj;Savings Bonus Employee
+Versicherte;Dashboard;Finanzierung_SIX!ZusatzAGprz;Savings Bonus Employer %
+Versicherte;Dashboard;Finanzierung_SIX!ZusatzANprz;Savings Bonus Employee %
+Versicherte;Dashboard;Finanzierung_SIX.ButtonTitel;Financing
+Versicherte;Dashboard;Finanzierung_SIX.Titel;Financing
+Versicherte;Dashboard;Konto_SIX!AHVLohn;AHV-JL
+Versicherte;Dashboard;Konto_SIX!BeschGrad;DE%
+Versicherte;Dashboard;Konto_SIX!BisDatum;Bis
+Versicherte;Dashboard;Konto_SIX!BVGLohn;BVG-JL
+Versicherte;Dashboard;Konto_SIX!Jahr;Year
+Versicherte;Dashboard;Konto_SIX!PKLohnRisiko;JL-R1
+Versicherte;Dashboard;Konto_SIX!PKLohnRisikoZusatz;JL-R2
+Versicherte;Dashboard;Konto_SIX!PKLohnSpar;JL-S1
+Versicherte;Dashboard;Konto_SIX!PKLohnZusatz;JL-S2
+Versicherte;Dashboard;Konto_SIX!VonDatum;Von
+Versicherte;Dashboard;Konto_SIX.Beschreibung;
+Versicherte;Dashboard;Konto_SIX.ButtonTitel;Financing
+Versicherte;Dashboard;Konto_SIX.Fuss!AHV-JL_=_AHV_Jahreslohn;"AHV-JL = creditable annual salary ""Pension Plan"""
+Versicherte;Dashboard;Konto_SIX.Fuss!BG_=_Beschäftigungsgrad;DE = degree of employment
+Versicherte;Dashboard;Konto_SIX.Fuss!BVG-JL_=_BVG_Jahreslohn;BVG-JL = annual salary BVG/LOB
+Versicherte;Dashboard;Konto_SIX.Fuss!JL-R1_=_Jahreslohn_Risikolohn_1;JL-R1 = annual salary risk 1
+Versicherte;Dashboard;Konto_SIX.Fuss!JL-R2_=_Jahreslohn_Risikolohn_2;JL-R2 = Insured Bonus risk (average of the last 3 years)
+Versicherte;Dashboard;Konto_SIX.Fuss!JL-S1_=_Jahreslohn_Sparlohn_1;"JL-S1 = Insured annual salary ""Pension Plan"""
+Versicherte;Dashboard;Konto_SIX.Fuss!JL-S2_=_Jahreslohn_Sparlohn_2;JL-S2 = annual salary savings 2
+Versicherte;Dashboard;Konto_SIX.Fuss!Legende;legend
+Versicherte;Dashboard;Konto_SIX.Kopf.Text.1;AHV annual salary
+Versicherte;Dashboard;Konto_SIX.Kopf.Text.2;Savings salary 1
+Versicherte;Dashboard;Konto_SIX.Kopf.Text.3;Savings salary 2
+Versicherte;Dashboard;Konto_SIX.Kopf.Text.4;Risk salary 1
+Versicherte;Dashboard;Konto_SIX.Kopf.Text.5;Risk salary 2
+Versicherte;Dashboard;Konto_SIX.Titel;Account
+Versicherte;Dashboard;Lohndaten.ButtonTitel;Salary data
+Versicherte;Dashboard;Stammdaten_SIX!AHVID;SV number (AHV no)
+Versicherte;Dashboard;Stammdaten_SIX!EMail;e-mail
+Versicherte;Dashboard;Stammdaten_SIX!GebDatum;Date of birth
+Versicherte;Dashboard;Stammdaten_SIX!Geschlecht;Gender
+Versicherte;Dashboard;Stammdaten_SIX!HeiratsDatum;Marriage date
+Versicherte;Dashboard;Stammdaten_SIX!KonkubinatsDatum;Date of concubinage
+Versicherte;Dashboard;Stammdaten_SIX!KonkubinatsDatum.Hilfe;If you live in a marriage-like partnership, your partner is entitled to any survivors' benefits in accordance with the regulations. Please complete the relevant form.
+Versicherte;Dashboard;Stammdaten_SIX!Name;Name
+Versicherte;Dashboard;Stammdaten_SIX!Ort;Place
+Versicherte;Dashboard;Stammdaten_SIX!PLZ;Postcode
+Versicherte;Dashboard;Stammdaten_SIX!Postfach;P.O. Box
+Versicherte;Dashboard;Stammdaten_SIX!ScheidungsDatum;Date of divorce
+Versicherte;Dashboard;Stammdaten_SIX!Sprache;Language
+Versicherte;Dashboard;Stammdaten_SIX!Strasse;Street
+Versicherte;Dashboard;Stammdaten_SIX!TelefonG;Business phone
+Versicherte;Dashboard;Stammdaten_SIX!TelefonM;Mobile phone
+Versicherte;Dashboard;Stammdaten_SIX!TelefonP;Private phone
+Versicherte;Dashboard;Stammdaten_SIX!Vorname;First name
+Versicherte;Dashboard;Stammdaten_SIX!Zivilstand;marital status
+Versicherte;Dashboard;Stammdaten_SIX!Zusatz;Addition
+Versicherte;Dashboard;Stammdaten_SIX.Beschreibung;
+Versicherte;Dashboard;Stammdaten_SIX.ButtonTitel;Personal data / additional data
+Versicherte;Dashboard;Stammdaten_SIX.Titel;Personal data
+Versicherte;Dashboard;Timeline.AG!AGName;Employer
+Versicherte;Dashboard;Timeline.AG!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.Austritt!Auskap;Termination benefits Basis
+Versicherte;Dashboard;Timeline.Austritt!AuskapTotal;Termination benefits Total
+Versicherte;Dashboard;Timeline.Austritt!AuskapZusatz;Termination benefits Bonus
+Versicherte;Dashboard;Timeline.Austritt!SaldoSPK;Surplus account
+Versicherte;Dashboard;Timeline.Austritt!SaldoUER;Bridging pension account
+Versicherte;Dashboard;Timeline.Austritt!SaldoVPK;Early retirement account
+Versicherte;Dashboard;Timeline.Austritt!VonDatum;Leaving as of
+Versicherte;Dashboard;Timeline.Bonus!BonusLohn;Bonus
+Versicherte;Dashboard;Timeline.Bonus!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.Einkauf!Betrag;Purchase amount
+Versicherte;Dashboard;Timeline.Einkauf!BuchTyp;Booking type
+Versicherte;Dashboard;Timeline.Einkauf!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.Eintritt!AHVID;New social security number (AHV no)
+Versicherte;Dashboard;Timeline.Eintritt!AHVLohn;AHV annual salary
+Versicherte;Dashboard;Timeline.Eintritt!Anrede;Salutation
+Versicherte;Dashboard;Timeline.Eintritt!BeschGrad;Degree of employment
+Versicherte;Dashboard;Timeline.Eintritt!GebDatum;Date of birth
+Versicherte;Dashboard;Timeline.Eintritt!Land;Country
+Versicherte;Dashboard;Timeline.Eintritt!LohnabzAG;Employer contribution per month
+Versicherte;Dashboard;Timeline.Eintritt!LohnabzAN;Employee contribution per month
+Versicherte;Dashboard;Timeline.Eintritt!Name;Name
+Versicherte;Dashboard;Timeline.Eintritt!Ort;Place
+Versicherte;Dashboard;Timeline.Eintritt!PKLohnSpar;Insured annual salary
+Versicherte;Dashboard;Timeline.Eintritt!Sprache;Language
+Versicherte;Dashboard;Timeline.Eintritt!Strasse;Street / No.
+Versicherte;Dashboard;Timeline.Eintritt!VonDatum;Joining as of
+Versicherte;Dashboard;Timeline.Eintritt!Vorname;First name
+Versicherte;Dashboard;Timeline.Eintritt!Zivilstandsdatum;Date of martinal status
+Versicherte;Dashboard;Timeline.Eintritt!ZivilstandText;marital status
+Versicherte;Dashboard;Timeline.Eintritt!Zusatz;Addition
+Versicherte;Dashboard;Timeline.Lohn!AHVLohn;AHV annual salary
+Versicherte;Dashboard;Timeline.Lohn!BeschGrad;Degree of employment
+Versicherte;Dashboard;Timeline.Lohn!LohnabzAG;Employer contribution per month
+Versicherte;Dashboard;Timeline.Lohn!LohnabzAN;Employee contribution per month
+Versicherte;Dashboard;Timeline.Lohn!PKLohnSpar;Insured annual salary
+Versicherte;Dashboard;Timeline.Lohn!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.PKPlan!LohnabzAG;Employer contribution per month
+Versicherte;Dashboard;Timeline.PKPlan!LohnabzAN;Employee contribution per month
+Versicherte;Dashboard;Timeline.PKPlan!PKPlan;Plan
+Versicherte;Dashboard;Timeline.PKPlan!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.Scheidung!Betrag;Divorce settlement payment
+Versicherte;Dashboard;Timeline.Scheidung!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.UU!VonDatum;Mutation date
+Versicherte;Dashboard;Timeline.WEF!Betrag;Early withdrawal
+Versicherte;Dashboard;Timeline.WEF!VonDatum;Mutation date
+Versicherte;Dashboard;Zusatzdaten_SIX!FZL50;Termination benefits at age 50
+Versicherte;Dashboard;Zusatzdaten_SIX!FZL50.Hilfe;Insured persons who have passed the age of 50 may draw a maximum of the vested benefits to which they would have been entitled at the age of 50 or half of the vested benefits at the time of withdrawal.
+Versicherte;Dashboard;Zusatzdaten_SIX!FZLHeirat;Termination benefits at date of marriage
+Versicherte;Dashboard;Zusatzdaten_SIX!FZLHeirat.Hilfe;At the time of marriage, the vested benefits are calculated and recorded according to law. In the event of a divorce, this value is required as a benchmark for calculating the termination benefit to be divided.
+Versicherte;Dashboard;Zusatzdaten_SIX!Pfand;Pledge
+Versicherte;Dashboard;Zusatzdaten_SIX!Pfand.Hilfe;The insured person can pledge their entitlement to pension benefits or an amount up to the amount of their vested benefits in order to benefit from better financing conditions.
+Versicherte;Dashboard;Zusatzdaten_SIX!ScheidungsSaldo;Balance Divorce settlement
+Versicherte;Dashboard;Zusatzdaten_SIX!ScheidungsSaldo.Hilfe;Vested benefits paid out as part of a divorce settlement.
+Versicherte;Dashboard;Zusatzdaten_SIX!WEFSaldo;Early withdrawal for residential property OEP/WEF
+Versicherte;Dashboard;Zusatzdaten_SIX!WEFSaldo.Hilfe;In order to finance the purchase of residential property for their own use, the insured person can withdraw some or all of their pension assets.
+Versicherte;Dashboard;Zusatzdaten_SIX.Beschreibung;
+Versicherte;Dashboard;Zusatzdaten_SIX.ButtonTitel;Personal data / additional data
+Versicherte;Dashboard;Zusatzdaten_SIX.Titel;Additional data
+Versicherte;Report;Austrittsabrechnung_SIX.Titel;Leaving statement
+Versicherte;Report;LeistungsausweisAktuell_SIX.Titel;Insurance statement as of today
+Versicherte;Report;LeistungsausweisPerStichtag_SIX!Stichtag;Effective date
+Versicherte;Report;LeistungsausweisPerStichtag_SIX!Stichtag.Hilfe;Simulation of Insurance statement as of a future date in current year
+Versicherte;Report;LeistungsausweisPerStichtag_SIX.Titel;Insurance statement as of input date
+Versicherte;Report;LeistungsausweisPerStichtag_SIX.Validierung.1;Calculation only possible in current year.
+Versicherte;Report;LeistungsausweisPerStichtag_SIX.Validierung.2;Date must not be in the past.
+Versicherte;Report;LeistungsausweisPerStichtag_SIX.Validierung.3;Date must not be before entry.
+Versicherte;Simulation;Austritt_SIX.1!Stichtag;Leaving date
+Versicherte;Simulation;Austritt_SIX.1.Titel;Date
+Versicherte;Simulation;Austritt_SIX.1.Validierung.1;Date must not be in the past.
+Versicherte;Simulation;Austritt_SIX.1.Validierung.2;Date must not be before entry.
+Versicherte;Simulation;Austritt_SIX.2!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Austritt_SIX.2!Austrittsleistung_Basis;Termination benefits Basis
+Versicherte;Simulation;Austritt_SIX.2!Austrittsleistung_Zusatz;Termination benefits Bonus
+Versicherte;Simulation;Austritt_SIX.2!davon_BVG;thereof BVG/LOB
+Versicherte;Simulation;Austritt_SIX.2!gemäss_Reglement;according to regulations
+Versicherte;Simulation;Austritt_SIX.2!Konto_Überbrückungsrente;Bridging pension account
+Versicherte;Simulation;Austritt_SIX.2!Konto_Überschuss;Surplus account
+Versicherte;Simulation;Austritt_SIX.2!Konto_vorzeitige_Pensionierung;Early retirement account
+Versicherte;Simulation;Austritt_SIX.2!Mindestleistung_FZG,_Art._17;Minimum benefit FZG, Art. 17
+Versicherte;Simulation;Austritt_SIX.2!Total_Austrittsleistung;Termination benefits Total
+Versicherte;Simulation;Austritt_SIX.2.Titel;Result
+Versicherte;Simulation;Austritt_SIX.Beschreibung;Calculation of termination benefits
+Versicherte;Simulation;Austritt_SIX.Titel;Leaving
+Versicherte;Simulation;Einkauf_SIX.1!ValDatum;Desired payment date
+Versicherte;Simulation;Einkauf_SIX.1.Titel;Date
+Versicherte;Simulation;Einkauf_SIX.1.Validierung.1;Calculation only possible in current year.
+Versicherte;Simulation;Einkauf_SIX.1.Validierung.2;Date must not be in the past.
+Versicherte;Simulation;Einkauf_SIX.1.Validierung.3;Date must not be a Sunday.
+Versicherte;Simulation;Einkauf_SIX.1.Validierung.4;Date must not be a Saturday.
+Versicherte;Simulation;Einkauf_SIX.1.Validierung.5;Date must not be before entry.
+Versicherte;Simulation;Einkauf_SIX.2!Betrag;Desired amount
+Versicherte;Simulation;Einkauf_SIX.2!MaxEinkauf;Maximum amount
+Versicherte;Simulation;Einkauf_SIX.2.Titel;Amount
+Versicherte;Simulation;Einkauf_SIX.2.Validierung.1;Amount is greater than maximum.
+Versicherte;Simulation;Einkauf_SIX.2.Validierung.2;Amount must not be less than or equal to 0.00.
+Versicherte;Simulation;Einkauf_SIX.3!Alterskinderrente;Pensioner's child pension
+Versicherte;Simulation;Einkauf_SIX.3!Altersrente;Retirement pension
+Versicherte;Simulation;Einkauf_SIX.3!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Einkauf_SIX.3!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Einkauf_SIX.3!Differenz;Difference
+Versicherte;Simulation;Einkauf_SIX.3!Ehegattenrente;Spouse's pension
+Versicherte;Simulation;Einkauf_SIX.3!Invalidenkinderrente;Disabled persons's child's pension
+Versicherte;Simulation;Einkauf_SIX.3!Invalidenrente;Disability pension
+Versicherte;Simulation;Einkauf_SIX.3!LblBetragEinkauf;The following was taken into account for the calculation
+Versicherte;Simulation;Einkauf_SIX.3!LblBetragEP;... of which, as a voluntary purchase
+Versicherte;Simulation;Einkauf_SIX.3!LblBetragRS;... of which, as a repayable divorce withdrawal
+Versicherte;Simulation;Einkauf_SIX.3!LblBetragRW;... of which, as a repayable OPL/WEF early withdrawal
+Versicherte;Simulation;Einkauf_SIX.3!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;Einkauf_SIX.3!Nachher;Afterwards
+Versicherte;Simulation;Einkauf_SIX.3!Projektion;Projection
+Versicherte;Simulation;Einkauf_SIX.3!Todesfallkapital;Lump-sum death benefit
+Versicherte;Simulation;Einkauf_SIX.3!Todesfallkapital_Zusatz;Lump-sum death benefit Bonus
+Versicherte;Simulation;Einkauf_SIX.3!Vorher;before
+Versicherte;Simulation;Einkauf_SIX.3!Waisenrente;Orphan's pension
+Versicherte;Simulation;Einkauf_SIX.3.Text.1;Retirement assets at age 65
+Versicherte;Simulation;Einkauf_SIX.3.Text.2;Projection before
+Versicherte;Simulation;Einkauf_SIX.3.Text.3;Projection after
+Versicherte;Simulation;Einkauf_SIX.3.Titel;Result
+Versicherte;Simulation;Einkauf_SIX.Beschreibung;Effects of a voluntary purchase
+Versicherte;Simulation;Einkauf_SIX.Dokument.Leistungsausweis_Einkauf_nachher;Insurance_statement_after_purchase
+Versicherte;Simulation;Einkauf_SIX.Dokument.Leistungsausweis_Einkauf_vorher;Insurance_statement_before_purchase
+Versicherte;Simulation;Einkauf_SIX.Titel;Voluntary Purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1!ValDatum;Desired payment date
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1.Titel;Date
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1.Validierung.1;Calculation only possible in current year.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1.Validierung.2;Date must not be in the past.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1.Validierung.3;Date must not be a Sunday.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1.Validierung.4;Date must not be a Saturday.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.1.Validierung.5;Date must not be before entry.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2!Betrag;Desired amount
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2!MaxEinkauf;Maximum amount
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2!TaxWare_Berechnen;Integrate tax calculator
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2!TaxWare_Berechnen.Hilfe;Please note that the data entered into this form will be processed by a third-party in Switzerland as soon as you click on continue. However, your data is not saved or disclosed by the third-party.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2.Titel;Amount
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2.Validierung.1;Amount is greater than maximum.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.2.Validierung.2;Amount must not be less than or equal to 0.00.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Einkauf_TaxWare;Voluntary Purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Einkommen_Bund;Federal income
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Einkommen_Kanton;Cantonal income
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Kinder;Children
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Konfession;Denomination
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Ort;Place
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Partnerschaft;Partnership
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!PLZ;Postcode
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3!Steuerjahr;Tax year
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3.Titel;Tax calculator
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3.Validierung.1;Amount is greater than maximum.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.3.Validierung.2;Amount must not be less than or equal to 0.00.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Alterskinderrente;Pensioner's child pension
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Altersrente;Retirement pension
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Bundessteuern;Federal taxes
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Differenz;Difference
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Ehegattenrente;Spouse's pension
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Gemeindesteuern;Municipal taxes
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Invalidenkinderrente;Disabled persons child's pension
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Invalidenrente;Disability pension
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Kantonssteuern;Cantonal taxes
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Kirchensteuern;Church taxes
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!LblBetragEinkauf;The following was taken into account for the calculation
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!LblBetragEP;... of which, as a voluntary purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!LblBetragRS;... of which, as a repayable divorce withdrawal
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!LblBetragRW;... of which, as a repayable OEP/WEF early withdrawal
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Nachher;Afterwards
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!NettoinvestitionX;Net investment
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!PensionskasseneinkaufX;Voluntary Purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Projektion;Projection
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!SteuereinsparungX;Tax savings
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Steuerersparnis;Your tax saving is / in % of the voluntary purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Steuern;Approximate calculation of tax savings
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!SteuerNachEinkauf;Tax after purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!SteuerVorEinkauf;Tax before purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Todesfallkapital;Lump-sum death benefit
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Todesfallkapital_Zusatz;Lump-sum death benefit Bonus
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Total;Total
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Vorher;Before
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4!Waisenrente;Orphan's pension
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4.Text.1;Retirement assets at age 65
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4.Text.2;Projection before
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4.Text.3;Projection after
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4.Text.4;Tax saving
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4.Text.5;Net investment
+Versicherte;Simulation;Einkauf_TaxWare_SIX.4.Titel;Result
+Versicherte;Simulation;Einkauf_TaxWare_SIX.Beschreibung;Effects of a voluntary purchase incl. calculation of expected tax burden, tax apportionment
+Versicherte;Simulation;Einkauf_TaxWare_SIX.Dokument.Leistungsausweis_Einkauf_nachher;Insurance_statement_after_purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.Dokument.Leistungsausweis_Einkauf_vorher;Insurance_statement_before_purchase
+Versicherte;Simulation;Einkauf_TaxWare_SIX.Titel;Voluntary Purchase
+Versicherte;Simulation;Eintritt.1.Validierung.1;Calculation only possible in the current year.
+Versicherte;Simulation;Eintritt.1.Validierung.2;The AHV annual salary must be greater than 0.00.
+Versicherte;Simulation;Eintritt.1.Validierung.3;The degree of employment must be between 1.00% and 100.00%.
+Versicherte;Simulation;Eintritt.1.Validierung.4;AHV annual salary is below the entry threshold.
+Versicherte;Simulation;Eintritt.103.Titel;Result
+Versicherte;Simulation;Lohn_SIX.1!AHVLohn;AHV salary
+Versicherte;Simulation;Lohn_SIX.1!BeschGrad;Degree of employment
+Versicherte;Simulation;Lohn_SIX.1!ValDatum;Change date
+Versicherte;Simulation;Lohn_SIX.1.Titel;Salary change
+Versicherte;Simulation;Lohn_SIX.1.Validierung.1;Calculation only possible in current year.
+Versicherte;Simulation;Lohn_SIX.1.Validierung.2;Date must not be in the past.
+Versicherte;Simulation;Lohn_SIX.1.Validierung.3;The AHV annual salary must be greater than 0.00.
+Versicherte;Simulation;Lohn_SIX.1.Validierung.4;Degree of employment must be between 1.00% and 100.00%.
+Versicherte;Simulation;Lohn_SIX.1.Validierung.5;AHV annual salary is below the entry threshold of {0}.
+Versicherte;Simulation;Lohn_SIX.1.Validierung.6;Pension plan per {0} not found.
+Versicherte;Simulation;Lohn_SIX.1.Validierung.7;Date must not be before entry.
+Versicherte;Simulation;Lohn_SIX.2!AHV_Jahreslohn;AHV annual salary
+Versicherte;Simulation;Lohn_SIX.2!Alterskinderrente;Pensioner's child pension
+Versicherte;Simulation;Lohn_SIX.2!Altersrente;Retirement pension
+Versicherte;Simulation;Lohn_SIX.2!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Lohn_SIX.2!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Lohn_SIX.2!Differenz;Difference
+Versicherte;Simulation;Lohn_SIX.2!Ehegattenrente;Spouse's pension
+Versicherte;Simulation;Lohn_SIX.2!Grafik;Graphic
+Versicherte;Simulation;Lohn_SIX.2!Invalidenkinderrente;Disabled persons child's pension
+Versicherte;Simulation;Lohn_SIX.2!Invalidenrente;Disability pension
+Versicherte;Simulation;Lohn_SIX.2!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;Lohn_SIX.2!Nachher;Afterwards
+Versicherte;Simulation;Lohn_SIX.2!Projektion;Projection
+Versicherte;Simulation;Lohn_SIX.2!Risiko_AG;Risk Employer
+Versicherte;Simulation;Lohn_SIX.2!Risiko_AN;Risk Employee
+Versicherte;Simulation;Lohn_SIX.2!Risiko_Zusatz_AG;Risk Bonus Employer
+Versicherte;Simulation;Lohn_SIX.2!Risiko_Zusatz_AN;Risk Bonus Employee
+Versicherte;Simulation;Lohn_SIX.2!Risikolohn_1;Risk salary 1
+Versicherte;Simulation;Lohn_SIX.2!Risikolohn_2;Risk salary 2
+Versicherte;Simulation;Lohn_SIX.2!Sparen_AG;Savings Employer
+Versicherte;Simulation;Lohn_SIX.2!Sparen_AN;Saving Employee
+Versicherte;Simulation;Lohn_SIX.2!Sparen_Zusatz_AG;Savings Bonus Employer
+Versicherte;Simulation;Lohn_SIX.2!Sparen_Zusatz_AN;Savings Bonus Employee
+Versicherte;Simulation;Lohn_SIX.2!Sparlohn_1;Savings salary 1
+Versicherte;Simulation;Lohn_SIX.2!Sparlohn_2;Savings salary 2
+Versicherte;Simulation;Lohn_SIX.2!Todesfallkapital;Lump-sum death benefit
+Versicherte;Simulation;Lohn_SIX.2!Todesfallkapital_Zusatz;Lump-sum death benefit Bonus
+Versicherte;Simulation;Lohn_SIX.2!Vorher;Before
+Versicherte;Simulation;Lohn_SIX.2!Waisenrente;Orphan's pension
+Versicherte;Simulation;Lohn_SIX.2.Dokument.Leistungsausweis_Lohn_nachher;Insurance_statement_after_salary
+Versicherte;Simulation;Lohn_SIX.2.Dokument.Leistungsausweis_Lohn_vorher;Insurance_statement_before_salary
+Versicherte;Simulation;Lohn_SIX.2.Text.1;Retirement assets at age 65
+Versicherte;Simulation;Lohn_SIX.2.Text.2;Projection before
+Versicherte;Simulation;Lohn_SIX.2.Text.3;Projection after
+Versicherte;Simulation;Lohn_SIX.2.Titel;Result
+Versicherte;Simulation;Lohn_SIX.Beschreibung;Effects of a change in salary or degree of employment
+Versicherte;Simulation;Lohn_SIX.Dokument.Leistungsausweis_Lohn_nachher;Insurance_statement_after_salary
+Versicherte;Simulation;Lohn_SIX.Dokument.Leistungsausweis_Lohn_vorher;Insurance_statement_before_salary
+Versicherte;Simulation;Lohn_SIX.Titel;Salary
+Versicherte;Simulation;Pensionierung_SIX.1!PensDatum;Regular retirement date
+Versicherte;Simulation;Pensionierung_SIX.1!PensDatumErst;First possible retirement date
+Versicherte;Simulation;Pensionierung_SIX.1!PensDatumLetzt;Last possible retirement date
+Versicherte;Simulation;Pensionierung_SIX.1!Stichtag;Planned date
+Versicherte;Simulation;Pensionierung_SIX.1.Titel;Date
+Versicherte;Simulation;Pensionierung_SIX.1.Validierung.1;The planned date is not between the first and last possible retirement date.
+Versicherte;Simulation;Pensionierung_SIX.1.Validierung.2;Retirement is only possible on the 1st of the month.
+Versicherte;Simulation;Pensionierung_SIX.2!AK4;Desired lump-sum payment
+Versicherte;Simulation;Pensionierung_SIX.2!MaxBezug4;Maximum possible lump-sum payment
+Versicherte;Simulation;Pensionierung_SIX.2!Sperrbetrag4;Purchases in the last 3 years
+Versicherte;Simulation;Pensionierung_SIX.2!Total4;Existing retirement assets
+Versicherte;Simulation;Pensionierung_SIX.2.Titel;lump-sum payment
+Versicherte;Simulation;Pensionierung_SIX.2.Validierung.1;The desired lump-sum payment must not be greater than the maximum possible lump-sum payment.
+Versicherte;Simulation;Pensionierung_SIX.3!Allfällige_Bonus-_und_Zusatzguthaben_sind_im_Altersguthaben_berücksichtigt.;Age (year / month)
+Versicherte;Simulation;Pensionierung_SIX.3!Alter_(Jahr_/_Monat);Retirement pension per year
+Versicherte;Simulation;Pensionierung_SIX.3!Altersrente_pro_Jahr;Retirement pension per month
+Versicherte;Simulation;Pensionierung_SIX.3!Altersrente_pro_Monat;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Pensionierung_SIX.3!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;Basis for retirement pension
+Versicherte;Simulation;Pensionierung_SIX.3!Basis_für_Altersrente;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Pensionierung_SIX.3!gemäss_Reglement;according to regulations
+Versicherte;Simulation;Pensionierung_SIX.3!Gewünschter_Kapitalbezug;Desired lump-sum payment
+Versicherte;Simulation;Pensionierung_SIX.3!Umwandlungssatz;Conversion rate
+Versicherte;Simulation;Pensionierung_SIX.3.Titel;Result
+Versicherte;Simulation;Pensionierung_SIX.Beschreibung;Simulate your retirement
+Versicherte;Simulation;Pensionierung_SIX.Titel;Retirement
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1!PensDatum;Regular retirement date
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1!PensDatumErst;First possible retirement date
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1!PensDatumLetzt;Last possible retirement date
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1!Stichtag;Desired date
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1.Titel;Date
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1.Validierung.1;The desired date is not between the first and last possible retirement date.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.1.Validierung.2;Retirements are only possible on the 1st of the month.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2!AK4;Desired lump-sum payment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2!MaxBezug4;Maximum possible lump-sum payment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2!Sperrbetrag4;Purchases in the last 3 years
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2!TaxWare_Berechnen;Integrate AHV and tax calculator
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2!TaxWare_Berechnen.Hilfe;Please note that the data entered into this form will be processed by a third-party in Switzerland as soon as you click on continue. However, your data is not saved or disclosed by the third-party.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2!Total4;Existing retirement assets
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2.Titel;lump-sum payment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.2.Validierung.1;The desired lump-sum payment must not be greater than the maximum possible lump-sum payment.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!Kapitalbezug;lump-sum payment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!Kinder;Number of children
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!Konfession;Denomination
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!Ort;Place
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!Partnerschaft;Partnership
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!PLZ;Postcode
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3!Steuerjahr;Tax year
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3.Titel;Capital gains tax
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.3.Validierung.1;The desired lump-sum payment must not be greater than the maximum possible lump-sum payment.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Allfällige_Bonus-_und_Zusatzguthaben_sind_im_Altersguthaben_berücksichtigt.;Age (year / month)
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Alter_(Jahr_/_Monat);Pensioner's child pension
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Alterskinderrente;Retirement pension
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Altersrente;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;Basis for retirement pension
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Basis_für_Altersrente;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!gemäss_Reglement;according to regulations
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Gewünschter_Kapitalbezug;Desired lump-sum payment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Grafik1Säule;Graphic
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lbl1Säule;Approximate calculation of 1st and 2nd pillar
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblAHVLohn;Last income
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblAHVLohn.Hilfe;This corresponds to your last Swiss income. This amount serves as the basis for estimating income for the following years.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblAltersrente1Säule;Retirement pension 1st pillar
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblAltersrente1Säule.Hilfe;The pension estimate is based on a simplified calculation method from which no rights can be derived. As only hypothetical values are used, the pension benefit can also only be a hypothetical value. The pension estimate is therefore only indicative and is not binding for the compensation office.
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblAltersrente2SäuleKinder;Retirement pension 2nd pillar incl. children
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblAltersrenteTotal;Retirement pension total
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblDirekteBundessteuern;... of which direct federal taxes
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblGemeindesteuern;... of which municipal taxes
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblKantonssteuern;... of which cantonal taxes
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblKapitalBrutto;Gross capital payment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblKapitalleistungssteuer;Capital gains tax
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblKirchensteuern;... of which church taxes
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblNettokapitalSteuern;Net capital after taxes
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblRenteJahr;Pension / year
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblRenteMonat;Pension / month
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblSteuerrechner;Approximate calculation of capital gains tax
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblSteuerrechner1;Expected tax burden, tax apportionment
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblTotalSteuerrechner;Total taxes / in % of capital
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!lblVerhältnisAHVLohn;Ratio in % to AHV salary
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Rente_/_Jahr;Pension / year
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Rente_/_Monat;Pension / month
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4!Umwandlungssatz;Conversion rate
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Text.1;Income
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Text.2;AHV pension
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Text.3;Pension income
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Text.4;BVG/LOB pension
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Text.5;Capital gains tax
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Text.6;Net capital after taxes
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.4.Titel;Result
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.Beschreibung;Simulate your retirement including calculation of 1st pillar and lump-sum withdrawal with lump-sum benefit tax
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.Dokument.OffertePens;Retirement offer
+Versicherte;Simulation;Pensionierung_TaxWare_SIX.Titel;Retirement
+Versicherte;Simulation;Performance_SIX.1!ZinsAktuell;Current interest rate
+Versicherte;Simulation;Performance_SIX.1!ZinsSatz;Desired value
+Versicherte;Simulation;Performance_SIX.1.Titel;Interest rate
+Versicherte;Simulation;Performance_SIX.1.Validierung.1;Interest rate must not be less than 0.00%. (range 0.00% - 10.00%)
+Versicherte;Simulation;Performance_SIX.1.Validierung.2;Interest rate must not be greater than 10.00%. (range 0.00% - 10.00%)
+Versicherte;Simulation;Performance_SIX.2!1_AR1;
+Versicherte;Simulation;Performance_SIX.2!1_AR2;
+Versicherte;Simulation;Performance_SIX.2!1_AR3;
+Versicherte;Simulation;Performance_SIX.2!1_AR4;
+Versicherte;Simulation;Performance_SIX.2!1_AR5;
+Versicherte;Simulation;Performance_SIX.2!1_AR6;
+Versicherte;Simulation;Performance_SIX.2!1_AR7;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap1;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap2;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap3;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap4;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap5;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap6;
+Versicherte;Simulation;Performance_SIX.2!1_Projkap7;
+Versicherte;Simulation;Performance_SIX.2!2_AR1;
+Versicherte;Simulation;Performance_SIX.2!2_AR2;
+Versicherte;Simulation;Performance_SIX.2!2_AR3;
+Versicherte;Simulation;Performance_SIX.2!2_AR4;
+Versicherte;Simulation;Performance_SIX.2!2_AR5;
+Versicherte;Simulation;Performance_SIX.2!2_AR6;
+Versicherte;Simulation;Performance_SIX.2!2_AR7;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap1;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap2;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap3;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap4;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap5;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap6;
+Versicherte;Simulation;Performance_SIX.2!2_Projkap7;
+Versicherte;Simulation;Performance_SIX.2!Altersrente;Retirement pension
+Versicherte;Simulation;Performance_SIX.2!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Performance_SIX.2!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Performance_SIX.2!Differenz;Difference
+Versicherte;Simulation;Performance_SIX.2!Grafik;Graphic
+Versicherte;Simulation;Performance_SIX.2!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;Performance_SIX.2!Nachher;Afterwards
+Versicherte;Simulation;Performance_SIX.2!Projektion;Projection
+Versicherte;Simulation;Performance_SIX.2!Vorher;Before
+Versicherte;Simulation;Performance_SIX.2.Text.1;Current interest rate
+Versicherte;Simulation;Performance_SIX.2.Text.2;Interest (input)
+Versicherte;Simulation;Performance_SIX.2.Text.3;Age %1
+Versicherte;Simulation;Performance_SIX.2.Titel;Result
+Versicherte;Simulation;Performance_SIX.Beschreibung;Effects of an interest rate adjustment
+Versicherte;Simulation;Performance_SIX.Titel;Interest
+Versicherte;Simulation;PKPlan_SIX.1!MutDatum;Change date
+Versicherte;Simulation;PKPlan_SIX.1!PKPlanKat;Desired plan
+Versicherte;Simulation;PKPlan_SIX.1!SP6_PKPlan;Current plan
+Versicherte;Simulation;PKPlan_SIX.1.Titel;Plan change
+Versicherte;Simulation;PKPlan_SIX.1.Validierung.1;Plan change only possible in the current year.
+Versicherte;Simulation;PKPlan_SIX.1.Validierung.2;More recent mutation available. Please select a later date.
+Versicherte;Simulation;PKPlan_SIX.1.Validierung.3;Plan changes must not be in the past.
+Versicherte;Simulation;PKPlan_SIX.1.Validierung.4;Desired plan must deviate from the current plan.
+Versicherte;Simulation;PKPlan_SIX.1.Validierung.5;Date must not be before entry.
+Versicherte;Simulation;PKPlan_SIX.1.Validierung.6;You have already reported or paused a mutation via {0}. Please delete the mutation first before submitting a new mutation.
+Versicherte;Simulation;PKPlan_SIX.2!AHV_Jahreslohn;AHV annual salary
+Versicherte;Simulation;PKPlan_SIX.2!Alterskinderrente;Pensioner's child pension
+Versicherte;Simulation;PKPlan_SIX.2!Altersrente;Retirement pension
+Versicherte;Simulation;PKPlan_SIX.2!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;PKPlan_SIX.2!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;PKPlan_SIX.2!Differenz;Difference
+Versicherte;Simulation;PKPlan_SIX.2!Ehegattenrente;Spouse's pension
+Versicherte;Simulation;PKPlan_SIX.2!Invalidenkinderrente;Disabled persons child's pension
+Versicherte;Simulation;PKPlan_SIX.2!Invalidenrente;Disability pension
+Versicherte;Simulation;PKPlan_SIX.2!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;PKPlan_SIX.2!Nachher;Afterwards
+Versicherte;Simulation;PKPlan_SIX.2!Projektion;Projection
+Versicherte;Simulation;PKPlan_SIX.2!Risiko_AG;Risk Employer
+Versicherte;Simulation;PKPlan_SIX.2!Risiko_AN;Risk Employee
+Versicherte;Simulation;PKPlan_SIX.2!Risiko_Zusatz_AG;Risk Bonus Employer
+Versicherte;Simulation;PKPlan_SIX.2!Risiko_Zusatz_AN;Risk Bonus Employee
+Versicherte;Simulation;PKPlan_SIX.2!Risikolohn_1;Risk salary 1
+Versicherte;Simulation;PKPlan_SIX.2!Risikolohn_2;Risk salary 2
+Versicherte;Simulation;PKPlan_SIX.2!Sparen_AG;Savings Employer
+Versicherte;Simulation;PKPlan_SIX.2!Sparen_AN;Saving Employee
+Versicherte;Simulation;PKPlan_SIX.2!Sparen_Zusatz_AG;Savings Bonus Employer
+Versicherte;Simulation;PKPlan_SIX.2!Sparen_Zusatz_AN;Savings Bonus Employee
+Versicherte;Simulation;PKPlan_SIX.2!Sparlohn_1;Savings salary 1
+Versicherte;Simulation;PKPlan_SIX.2!Sparlohn_2;Savings salary 2
+Versicherte;Simulation;PKPlan_SIX.2!Todesfallkapital;Lump-sum death benefit
+Versicherte;Simulation;PKPlan_SIX.2!Todesfallkapital_Zusatz;Lump-sum death benefit Bonus
+Versicherte;Simulation;PKPlan_SIX.2!Vorher;Before
+Versicherte;Simulation;PKPlan_SIX.2!Waisenrente;Orphan's pension
+Versicherte;Simulation;PKPlan_SIX.2.Text.1;Retirement assets at age 65
+Versicherte;Simulation;PKPlan_SIX.2.Text.2;Projection before
+Versicherte;Simulation;PKPlan_SIX.2.Text.3;Projection after
+Versicherte;Simulation;PKPlan_SIX.2.Titel;Result
+Versicherte;Simulation;PKPlan_SIX.Beschreibung;Effects of a change of pension plan
+Versicherte;Simulation;PKPlan_SIX.Dokument.Leistungsausweis_Plan_nachher;Insurance_statement_after
+Versicherte;Simulation;PKPlan_SIX.Dokument.Leistungsausweis_Plan_vorher;Insurance_statement_before
+Versicherte;Simulation;PKPlan_SIX.Titel;Plan change
+Versicherte;Simulation;Teilpensionierung_SIX.1!BeschGrad1;Degree of employment after partial retirement
+Versicherte;Simulation;Teilpensionierung_SIX.1!PensDatum;Regular retirement date
+Versicherte;Simulation;Teilpensionierung_SIX.1!PensDatumErst;First possible retirement date
+Versicherte;Simulation;Teilpensionierung_SIX.1!PensDatumLetzt;Last possible retirement date
+Versicherte;Simulation;Teilpensionierung_SIX.1!Stichtag1;Desired date
+Versicherte;Simulation;Teilpensionierung_SIX.1.Titel;Date of partial retirement
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.1;The desired date is not between the first and last possible retirement date.
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.2;Retirements are only possible on the 1st of the month.
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.3;Degree of employment must be lower than before.
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.4;Degree of employment must be greater than 0.00.
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.5;reduction must be at least 20 %.
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.6;AHV annual salary is below the entry threshold of {0}.
+Versicherte;Simulation;Teilpensionierung_SIX.1.Validierung.7;Pension plan per {0} not found.
+Versicherte;Simulation;Teilpensionierung_SIX.2!AK1;Desired capital withdrawal
+Versicherte;Simulation;Teilpensionierung_SIX.2!MaxBezug1;Maximum possible lump-sum withdrawal
+Versicherte;Simulation;Teilpensionierung_SIX.2!Sperrbetrag1;Purchases in the last 3 years
+Versicherte;Simulation;Teilpensionierung_SIX.2!Total1;Existing retirement assets
+Versicherte;Simulation;Teilpensionierung_SIX.2.Titel;Lump-sum payment Partial retirement
+Versicherte;Simulation;Teilpensionierung_SIX.2.Validierung.1;The desired lump-sum payment must not be greater than the maximum possible lump-sum payment.
+Versicherte;Simulation;Teilpensionierung_SIX.3!Stichtag4;Desired date
+Versicherte;Simulation;Teilpensionierung_SIX.3.Titel;Date of full retirement
+Versicherte;Simulation;Teilpensionierung_SIX.3.Validierung.1;Retirement is only possible on the 1st of the month.
+Versicherte;Simulation;Teilpensionierung_SIX.3.Validierung.2;Requested date must not be before the date of partial retirement.
+Versicherte;Simulation;Teilpensionierung_SIX.3.Validierung.3;The desired date is not between the first and last possible retirement date.
+Versicherte;Simulation;Teilpensionierung_SIX.4!AK4;Desired lump-sum payment
+Versicherte;Simulation;Teilpensionierung_SIX.4!MaxBezug4;Maximum possible lump-sum payment
+Versicherte;Simulation;Teilpensionierung_SIX.4!Sperrbetrag4;Purchases in the last 3 years
+Versicherte;Simulation;Teilpensionierung_SIX.4!Total4;Existing retirement assets
+Versicherte;Simulation;Teilpensionierung_SIX.4.Titel;Lump-sum payment Full retirement
+Versicherte;Simulation;Teilpensionierung_SIX.4.Validierung.1;The desired lump-sum payment must not be greater than the maximum possible lump-sum payment.
+Versicherte;Simulation;Teilpensionierung_SIX.5!Alter_(Jahr_/_Monat);Age (year / month)
+Versicherte;Simulation;Teilpensionierung_SIX.5!Altersrente_pro_Jahr;Retirement pension per year
+Versicherte;Simulation;Teilpensionierung_SIX.5!Altersrente_pro_Monat;Retirement pension per month
+Versicherte;Simulation;Teilpensionierung_SIX.5!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;Teilpensionierung_SIX.5!Auszahlungsbetrag_pro_Monat;Amount paid out per month
+Versicherte;Simulation;Teilpensionierung_SIX.5!Basis_für_Altersrente;Basis for retirement pension
+Versicherte;Simulation;Teilpensionierung_SIX.5!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;Teilpensionierung_SIX.5!Gewünschter_Kapitalbezug;Desired lump-sum payment
+Versicherte;Simulation;Teilpensionierung_SIX.5!Teilpensionierung;Partial retirement
+Versicherte;Simulation;Teilpensionierung_SIX.5!Umwandlungssatz;Conversion rate
+Versicherte;Simulation;Teilpensionierung_SIX.5!Vollpensionierung;Full retirement
+Versicherte;Simulation;Teilpensionierung_SIX.5.Titel;Result
+Versicherte;Simulation;Teilpensionierung_SIX.Beschreibung;Simulate your partial retirement
+Versicherte;Simulation;Teilpensionierung_SIX.Titel;Partial retirement
+Versicherte;Simulation;WEF_SIX.1!MutDatum;Date of withdrawal
+Versicherte;Simulation;WEF_SIX.1.Titel;Date
+Versicherte;Simulation;WEF_SIX.1.Validierung.1;Calculation only possible in current year.
+Versicherte;Simulation;WEF_SIX.1.Validierung.2;Date must not be in the past.
+Versicherte;Simulation;WEF_SIX.1.Validierung.3;Date must not be a Sunday.
+Versicherte;Simulation;WEF_SIX.1.Validierung.4;Date must not be a Saturday.
+Versicherte;Simulation;WEF_SIX.1.Validierung.5;Date must not be before entry.
+Versicherte;Simulation;WEF_SIX.2!Bezug;Desired amount
+Versicherte;Simulation;WEF_SIX.2!MaxWEF;Maximum amount
+Versicherte;Simulation;WEF_SIX.2!MinWEF;Minimum amount
+Versicherte;Simulation;WEF_SIX.2!Sperrbetrag;You have made a voluntary contribution in the last three years.
+Versicherte;Simulation;WEF_SIX.2.Titel;Amount
+Versicherte;Simulation;WEF_SIX.2.Validierung.1;Amount greater than maximum amount.
+Versicherte;Simulation;WEF_SIX.2.Validierung.2;Amount less than minimum amount.
+Versicherte;Simulation;WEF_SIX.3!Alterskinderrente;Pensioner's child pension
+Versicherte;Simulation;WEF_SIX.3!Altersrente;Retirement pension
+Versicherte;Simulation;WEF_SIX.3!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;WEF_SIX.3!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;WEF_SIX.3!Differenz;Difference
+Versicherte;Simulation;WEF_SIX.3!Ehegattenrente;Spouse's pension
+Versicherte;Simulation;WEF_SIX.3!Invalidenkinderrente;Disabled persons child's pension
+Versicherte;Simulation;WEF_SIX.3!Invalidenrente;Disability pension
+Versicherte;Simulation;WEF_SIX.3!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;WEF_SIX.3!Nachher;Afterwards
+Versicherte;Simulation;WEF_SIX.3!Projektion;Projection
+Versicherte;Simulation;WEF_SIX.3!Todesfallkapital;Lump-sum death benefit
+Versicherte;Simulation;WEF_SIX.3!Todesfallkapital_Zusatz;Lump-sum death benefit Bonus
+Versicherte;Simulation;WEF_SIX.3!Vorher;Before
+Versicherte;Simulation;WEF_SIX.3!Waisenrente;Orphan's pension
+Versicherte;Simulation;WEF_SIX.3.Text.1;Retirement assets at age 65
+Versicherte;Simulation;WEF_SIX.3.Text.2;Projection before
+Versicherte;Simulation;WEF_SIX.3.Text.3;Projection after
+Versicherte;Simulation;WEF_SIX.3.Titel;Result
+Versicherte;Simulation;WEF_SIX.Beschreibung;Effects of an early withdrawal for residential property
+Versicherte;Simulation;WEF_SIX.Dokument.Leistungsausweis_WEF_nachher;Insurance_statement_after_OEP
+Versicherte;Simulation;WEF_SIX.Dokument.Leistungsausweis_WEF_vorher;Insurance_statement_before_OEP
+Versicherte;Simulation;WEF_SIX.Titel;OEP/WEF
+Versicherte;Simulation;WEF_TaxWare_SIX.1!MutDatum;Date of withdrawal
+Versicherte;Simulation;WEF_TaxWare_SIX.1.Titel;Date
+Versicherte;Simulation;WEF_TaxWare_SIX.1.Validierung.1;Calculation only possible in current year.
+Versicherte;Simulation;WEF_TaxWare_SIX.1.Validierung.2;Date must not be in the past.
+Versicherte;Simulation;WEF_TaxWare_SIX.1.Validierung.3;Date must not be a Sunday.
+Versicherte;Simulation;WEF_TaxWare_SIX.1.Validierung.4;Date must not be a Saturday.
+Versicherte;Simulation;WEF_TaxWare_SIX.1.Validierung.5;Date must not be before entry.
+Versicherte;Simulation;WEF_TaxWare_SIX.2!Bezug;Desired amount
+Versicherte;Simulation;WEF_TaxWare_SIX.2!BezugBasis;Maximum amount
+Versicherte;Simulation;WEF_TaxWare_SIX.2!MaxWEF;Maximum amount
+Versicherte;Simulation;WEF_TaxWare_SIX.2!MinWEF;Minimum amount
+Versicherte;Simulation;WEF_TaxWare_SIX.2!Sperrbetrag;You have made a voluntary purchase in the last three years.
+Versicherte;Simulation;WEF_TaxWare_SIX.2!TaxWare_Berechnen;Integrate tax calculator
+Versicherte;Simulation;WEF_TaxWare_SIX.2!TaxWare_Berechnen.Hilfe;Please note that the data entered into this form will be processed by a third-party in Switzerland as soon as you click on continue. However, your data is not saved or disclosed by the third-party.
+Versicherte;Simulation;WEF_TaxWare_SIX.2.Titel;Amount
+Versicherte;Simulation;WEF_TaxWare_SIX.2.Validierung.1;Amount greater than maximum amount.
+Versicherte;Simulation;WEF_TaxWare_SIX.2.Validierung.2;Amount less than minimum amount.
+Versicherte;Simulation;WEF_TaxWare_SIX.3!BezugWEF;Reference
+Versicherte;Simulation;WEF_TaxWare_SIX.3!Kinder;Number of children
+Versicherte;Simulation;WEF_TaxWare_SIX.3!Konfession;Denomination
+Versicherte;Simulation;WEF_TaxWare_SIX.3!Ort;Place
+Versicherte;Simulation;WEF_TaxWare_SIX.3!Partnerschaft;Partnership
+Versicherte;Simulation;WEF_TaxWare_SIX.3!PLZ;Postcode
+Versicherte;Simulation;WEF_TaxWare_SIX.3!Steuerjahr;Tax year
+Versicherte;Simulation;WEF_TaxWare_SIX.3.Titel;Capital gains tax
+Versicherte;Simulation;WEF_TaxWare_SIX.3.Validierung.1;Amount greater than maximum amount.
+Versicherte;Simulation;WEF_TaxWare_SIX.3.Validierung.2;Amount less than minimum amount.
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Alterskinderrente;Pensioner's child pension
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Altersrente;Retirement pension
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Änderungen_bleiben_vorbehalten._Aus_den_Angaben_lassen_sich_keine_Rechtsansprüche_ableiten.;We reserve the right to make changes. No legal claims can be derived from the information provided.
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Das_Altersguthaben_ist_immer_mit_Zusatz_berücksichtigt.;The retirement assets are always taken into account including Bonus.
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Differenz;Difference
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Ehegattenrente;Spouse's pension
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Invalidenkinderrente;Disabled persons child's pension
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Invalidenrente;Disability pension
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblDirekteBundessteuern;... of which direct federal taxes
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblGemeindesteuern;... of which municipal taxes
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblKantonssteuern;... of which cantonal taxes
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblKapitalBrutto;Gross purchase
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblKapitalleistungssteuer;Capital gains tax
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblKirchensteuern;... of which church taxes
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblNettokapitalSteuern;Net capital after taxes
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblSteuerrechner;Approximate calculation of capital gains tax
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblSteuerrechner1;Expected tax burden, tax apportionment
+Versicherte;Simulation;WEF_TaxWare_SIX.4!lblTotalSteuerrechner;Total taxes / in % of reference
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Leistungsvergleich;Performance comparison
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Nachher;Afterwards
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Projektion;Projection
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Todesfallkapital;Lump-sum death benefit
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Todesfallkapital_Zusatz;Lump-sum death benefit Bonus
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Vorher;Before
+Versicherte;Simulation;WEF_TaxWare_SIX.4!Waisenrente;Orphan's pension
+Versicherte;Simulation;WEF_TaxWare_SIX.4.Text.1;Retirement assets at age 65
+Versicherte;Simulation;WEF_TaxWare_SIX.4.Text.2;Projection before
+Versicherte;Simulation;WEF_TaxWare_SIX.4.Text.3;Projection after
+Versicherte;Simulation;WEF_TaxWare_SIX.4.Titel;Result
+Versicherte;Simulation;WEF_TaxWare_SIX.Beschreibung;Effects of an early withdrawal for residential property incl. calculation of capital gains tax
+Versicherte;Simulation;WEF_TaxWare_SIX.Dokument.Leistungsausweis_WEF_nachher;Insurance_statement_after_OEP
+Versicherte;Simulation;WEF_TaxWare_SIX.Dokument.Leistungsausweis_WEF_vorher;Insurance_statement_before_OEP
+Versicherte;Simulation;WEF_TaxWare_SIX.Titel;OEP/WEF
